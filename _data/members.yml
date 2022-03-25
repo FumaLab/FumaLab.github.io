@@ -3,7 +3,7 @@
   # altimage: /static/img/members/Fraser_pb.jpg
   #pronouns: he/him/his
   position: Principal Investigator
-  email: mfumasoni (at)igc.gulbenkian.pt
+  email: mfumasoni (at) igc.gulbenkian.pt
   website: FumaLab.github.io
   scholar: RcN_8nkAAAAJ&hl
   twitter: marcofumasoni
@@ -13,12 +13,13 @@
   github: FumaLab
   description: 'HFSP/EMBO postdoctoral fellow @ Harvard
 
+
                 PhD @ IFOM/SEMM/University of Milan'
 
 - name: Mariana Natalino
-  image: /static/img/Mariana.jpeg
-  position: PhD student @ IGC-IBB
-  email: mnatalino (at)igc.gulbenkian.pt
+  image: /static/img/Mariana.png
+  position: PhD student
+  email: mnatalino (at) igc.gulbenkian.pt
   #website: fitzvero.github.io
   #scholar: RcN_8nkAAAAJ&hl
   #twitter: marcofumasoni
@@ -28,34 +29,36 @@
   #github: fitzvero
   description: 'M.Sc. @ University of Porto
 
+
                 B.Sc. @ FCT Nova'
 
 - name: Veronika Fitz
   image: /static/img/Vero.jpeg
-  position: Lab Manager/Staff scientist @ IGC
-  email: vfitz (at)igc.gulbenkian.pt
+  position: Lab Manager
+  email: vfitz (at) igc.gulbenkian.pt
   #website: fitzvero.github.io
   scholar: V4ST5EwAAAAJ&hl
   #orcid: 0000-0002-4507-7824
   #github: fitzvero
   description: 'PhD @ MPI-CBG Dresden
 
+
                 M.Sc. @ IMP Vienna'
 
 - name: Francesca Rizzo
-  #image: /static/img/Vero.jpeg
+  image: /static/img/Francesca.png
   position: Erasmus student
-  email: frizzo (at)igc.gulbenkian.pt
+  email: frizzo (at) igc.gulbenkian.pt
   description: 'M.Sc @ University of Pavia'
 
 - name: Matilde Fonseca
-  #image: /static/img/Vero.jpeg
+  image: /static/img/matilde.jpeg
   position: Undergraduate intern
   #email: frizzo (at)igc.gulbenkian.pt
   description: 'B.Sc. student @ FCT NOVA'
   
                 
 - name: This could be you
-  pronouns: he/she/they
-  image: /static/img/hands.jpg
+  #pronouns: he/she/they
+  image: /static/img/hands_crop.jpeg
   description:
