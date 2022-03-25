@@ -1,29 +1,60 @@
-- name: Jonathan
-  image: /static/img/in.jpg
+- name: Marco Fumasoni
+  image: /static/img/Marco.jpeg
   # altimage: /static/img/members/Fraser_pb.jpg
-  pronouns: he/him/his
-  #position: Principal Investigator
-  email: rodenfels (at) mpi-cbg.de
-  website: rodenfels.github.io
-  scholar: S5yBEcAAAAAJ
-  twitter: J_Rodenfels
-  linkedin: jonathan-rodenfels
+  #pronouns: he/him/his
+  position: Principal Investigator
+  email: mfumasoni (at)igc.gulbenkian.pt
+  website: FumaLab.github.io
+  scholar: RcN_8nkAAAAJ&hl
+  twitter: marcofumasoni
+  #linkedin: jonathan-rodenfels
   #UCSF: 186628
-  orcid: 0000-0003-3538-8482
-  github: Rodenfels
-  description: 'Jonathan was an undergraduate at University of Bayreuth, Germany, where he worked in the lab of Benedikt Westermann on [mitochondrial fusion and fission](/publications#19221197) using yeast as a model system.
+  orcid: 0000-0002-4507-7824
+  github: FumaLab
+  description: 'HFSP/EMBO postdoctoral fellow @ Harvard
 
+                PhD @ IFOM/SEMM/University of Milan'
 
-  In 2008, he moved to Dresden to do his PhD at the [Max-Planck-Institute of Molecular Cell Biology and Genetics](http://mpi-cbg.de). He joined the lab of the late [Suzanne Eaton](https://www.mpi-cbg.de/institute/remembering-suzanne/)
-  studying the role of [systemically circulating Hedgehog](/publications#25452274) and [steroid hormone signaling](/publications#26395481) during fruit fly development.
+- name: Mariana Natalino
+  image: /static/img/Mariana.jpeg
+  position: PhD student @ IGC-IBB
+  email: mnatalino (at)igc.gulbenkian.pt
+  #website: fitzvero.github.io
+  #scholar: RcN_8nkAAAAJ&hl
+  #twitter: marcofumasoni
+  #linkedin: jonathan-rodenfels
+  #UCSF: 186628
+  #orcid: 0000-0002-4507-7824
+  #github: fitzvero
+  description: 'M.Sc. @ University of Porto
 
+                B.Sc. @ FCT Nova'
 
-  As a postdoc, Jonathan crossed the pond and moved New Haven, USA joining the [Neugebauer lab](https://www.neugebauerlab.com/) at Yale University. He focused his research
-  on establishing approaches to the quantitatively measure the energy exchanged between biological systems and their surroundings, and to investigate the metabolism and [energetics costs of early development](/publications#30713074).
+- name: Veronika Fitz
+  image: /static/img/Vero.jpeg
+  position: Lab Manager/Staff scientist @ IGC
+  email: vfitz (at)igc.gulbenkian.pt
+  #website: fitzvero.github.io
+  scholar: V4ST5EwAAAAJ&hl
+  #orcid: 0000-0002-4507-7824
+  #github: fitzvero
+  description: 'PhD @ MPI-CBG Dresden
 
+                M.Sc. @ IMP Vienna'
 
-  Outside of science, Jonathan plays beer-league hockey and piano and harmonica in the band [Lyon Street Fire](https://www.lyonstreetfire.com/)'
+- name: Francesca Rizzo
+  #image: /static/img/Vero.jpeg
+  position: Erasmus student
+  email: frizzo (at)igc.gulbenkian.pt
+  description: 'M.Sc @ University of Pavia'
 
+- name: Matilde Fonseca
+  #image: /static/img/Vero.jpeg
+  position: Undergraduate intern
+  #email: frizzo (at)igc.gulbenkian.pt
+  description: 'B.Sc. student @ FCT NOVA'
+  
+                
 - name: This could be you
   pronouns: he/she/they
   image: /static/img/hands.jpg
