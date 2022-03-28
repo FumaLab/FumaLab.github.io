@@ -4,19 +4,20 @@ layout: research
 group: research
 ---
 
-## Energetics of Biological Systems
-<hr>
+Genome maintenance depends on a number of functional modules that execute and coordinate the complex processes of DNA replication, DNA repair, cell cycle regulation and chromosome segregation.
 
-Living biological systems are metabolically active, open systems that constantly exchange matter and energy with their environment. They function out of thermodynamic equilibrium and continuously use metabolic pathways to obtain energy from chemical bonds derived from nutrients to fulfill the systems energetic requirements to stay alive, grow, and develop.
+We are interested in understanding how cells evolutionary adapt to perturbations in these cellular processes, how the mechanisms of adaptation are influenced by the environment, and what are the physiological and evolutionary consequences of the adaptive changes on organisms.
 
+We take advantage of S.cerevisiae as a model eukaryotic organism and we investigate the molecular mechanisms that allow cells to adapt to perturbations in genome maintenance. We use a multidisciplinary approach that takes advantage of techniques and concepts spanning across biological scales: From molecular and cellular biology to genomics, evolutionary and population genetics.
 
-Although work over the last decades has highlighted the principle(s) of how metabolism allows cells to proliferate at the level of biochemical networks within cells, the general framework for the energetic principles that maintain and govern cellular states remains poorly defined. How much energy does a cell require to stay alive and maintain a non-equilibrium state? An organism?  How much more energy does that organism need to grow and develop? How much energy is required for various cellular processes and how efficiently is it used? What are the energetic changes associated with different environmental and pathological conditions?
+#### Open Science
+We do our best to promote Open Science. Below are a number of initiatives and associations we support:
 
+[<img src="https://fitzvero.github.io/static/img/asapbio-logo.png">](https://asapbio.org/)
+[<img src="https://fitzvero.github.io/static/img/biorxiv2.jpeg">](https://www.biorxiv.org/)
+[<img src="https://fitzvero.github.io/static/img/plans.jpeg">](https://www.coalition-s.org/)
+[<img src="https://fitzvero.github.io/static/img/reviewcommons.jpeg">](https://www.reviewcommons.org/)
+[<img src="https://fitzvero.github.io/static/img/pci.jpeg">](https://peercommunityin.org/)
+[<img src="https://fitzvero.github.io/static/img/dora.jpeg">](https://sfdora.org/)
 
-We are interested in studying these crucial aspects of biological systems using a combination of experimental model systems (zebrafish, frog, egg extracts and tissue culture cells) and biochemical, biophysical, genetic, molecular biology and imaging approaches that bridge the intersection between cell/developmental biology and biophysics.
-
-#### Some current and future work includes:
--	Develop calorimetry approaches to quantify the overall energetics of biological systems
-- Determine how energetics drive embryonic development and cell growth
-- Study the role of mitochondrial energetics and cell biology during early zebrafish development
-- Elucidate the role of energy dissipation on the accuracy and reproducibility of cellular signaling
+<!--![alt text](https://FumaLab.github.io/static/img/biorxiv2.jpeg?raw=true)-->

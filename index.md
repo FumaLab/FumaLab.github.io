@@ -1,6 +1,6 @@
 ---
-title: Rodenfels Lab
+title: Fumasoni Lab
 layout: home
 group: home
 ---
-Our research focuses on understanding how energetics shape the behavior of biological systems. We are particularly interested in how cells and organisms partition their metabolic energy among the complex array of cellular processes that are necessary for life at any scale, from isolated biochemical networks to quiescent and highly proliferative cells to organismal growth and development.
+We are broadly interested in cell biology and evolution. We study the interplay between genome maintenance mechanisms and evolutionary forces in shaping organismal genomes.
