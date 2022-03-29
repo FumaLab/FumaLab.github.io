@@ -51,98 +51,140 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
-- citation: "Contribution of increasing plasma membrane to the energetic cost of early zebrafish embryogenesis <br />
-**J Rodenfels**, P Sartori, S Golfier, K Nagendra, KM Neugebauer, J Howard<br />
-<i>Molecular biology of the cell</i> 31 (7), 520-526 (2020)"
-  date: '202003'
-  image: '/static/img/pub/Rodenfels_2020.jpeg'
-  pmid: '32049586'
-  pmcid: 'PMC6414255'
-  #biorxiv: '2020.04.14.041772'
-#  pdf: '/static/pdf/publications/pan_2020.pdf'
-  # pdf: https://drive.google.com/open?id=1T_nNmL0yzQ6xVu66v4Tzbggdrn3TZJwu
+- citation: "Parental histone deposition on the replicated strands promotes error-free DNA damage tolerance and regulates drug resistance.<br />
+V Dolce, S Dusi, M Giannattasio, C R Joseph, **M Fumasoni**, D Branzei<br />
+<i>Genes & Development</i> 36 (3-4), 167-179 (2022)"
+  date: '202202'
+  image: '/static/img/pub/Dolce_2022.png'
+  pmid: '35115379'
+  pmcid: 'PMC8887126' 
   links:
-    - name: Neugebauer Lab @ Yale University
-      url: https://www.neugebauerlab.com/
-    - name: Howard Lab @ Yale University
-      url: https://howardlab.yale.edu/
+    - name: Branzei Lab @ IGM
+      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
 
-- citation: "Heat Oscillations Driven by the Embryonic Cell Cycle Reveal the Energetic Costs of Signaling <br />
-**J Rodenfels**, KM Neugebauer, J Howard<br /> <i>Developmental Cell</i>, Mar 11; 48(5);646-658.E6 (2019)"
-  date: '201903'
-  image: '/static/img/pub/Rodenfels_2019.png'
-  pmid: '30713074'
-  pmcid: 'PMC6414255'
-  #zenodo: '10.5281/zenodo.1589353'
-  #biorxiv: '2020.04.14.041772'
-#  pdf: '/static/pdf/publications/pan_2020.pdf'
-  # pdf: https://drive.google.com/open?id=1T_nNmL0yzQ6xVu66v4Tzbggdrn3TZJwu
+- citation: "Ploidy and recombination proficiency shape the evolutionary adaptation to constitutive DNA replication stress.<br />
+**M Fumasoni** and A W. Murray<br /> 
+<i>PLoS genetics</i>, 17 (11), (2021)"
+  date: '202111'
+  image: '/static/img/pub/Fumasoni_2021.png'
+  pmid: '34752451'
+  pmcid: 'PMC8604288'
   links:
-    - name: Preview by Peter J. Foster, Manuel Razo-Mejia & Rob Phillips
-      url: https://www.sciencedirect.com/science/article/pii/S153458071930139X
-    - name: Neugebauer Lab @ Yale University
-      url: https://www.neugebauerlab.com/
-    - name: Howard Lab @ Yale University
-      url: https://howardlab.yale.edu/
+    - name: Fumasoni Lab @ IGC
+      url: https://fumalab.github.io/
+    - name: Murray Lab @ Harvard University
+      url: https://murraylab.fas.harvard.edu/
 
-- citation: "Activation of transcription enforces the formation of distinct nuclear bodies in zebrafish embryos. <br />
-P Heyn, H Salmonowicz, **J Rodenfels**, KM Neugebauer<br />
-<i>RNA Biology</i>,: Nov 18:1-9 (2016)"
-  date: '201703'
-  image: '/static/img/pub/placeholder.png'
-  pmid: '27858508'
-  pmcid: 'PMC5519242'
-  #biorxiv: '2020.04.14.041772'
-#  pdf: '/static/pdf/publications/pan_2020.pdf'
-  # pdf: https://drive.google.com/open?id=1T_nNmL0yzQ6xVu66v4Tzbggdrn3TZJwu
+- citation: "Tell me where you’ve been and i’ll tell you how you’ll evolve.<br />
+**M Fumasoni** <br />
+<i>MBio</i> 11 (5), (2020)"
+  date: '202010'
+  image: '/static/img/pub/Fumasoni_2020.png' 
+  pmid: '33109768'
+  pmcid: 'PMC7593964'
   links:
-    - name: Neugebauer Lab @ Yale University
-      url: https://www.neugebauerlab.com/
+  - name: Murray Lab @ Harvard University
+    url: https://murraylab.fas.harvard.edu/
 
-- citation: "The ecdysteroidome of Drosophila: influence of diet and development <br />
-O Lavrynenko &#42; , **J Rodenfels &#42;**, M Carvalho, NA Dye, R Lafont, S Eaton, A Shevchenko<br />
-<i>Development</i> 142 (21), 3758-3768 32	(2015)"
-  date: '201511'
-  image: '/static/img/pub/Lav2015.png'
-  pmid: '26395481'
-  links:
-  - name: Remembering Suzanne
-    url: https://www.mpi-cbg.de/institute/remembering-suzanne/
-  - name: Shevchenko Lab @ MPI-CBG
-    url: https://www.mpi-cbg.de/research-groups/current-groups/andrej-shevchenko/research-focus/
 
-#  pmcid: ''
-  #biorxiv: '2020.04.14.041772'
-#  pdf: '/static/pdf/publications/pan_2020.pdf'
-  # pdf: https://drive.google.com/open?id=1T_nNmL0yzQ6xVu66v4Tzbggdrn3TZJwu
-  #links:
-  #  - name: Eaton Lab @MPI-CBG
-  #    url:
-#    - name: Shevchenko Lab @MPI-CBG
-  #    url:
-- citation: "Production of systemically circulating Hedgehog by the intestine couples nutrition to growth and development <br />
-**J Rodenfels**, O Lavrynenko, S Ayciriex, JL Sampaio, M Carvalho, A Shevchenko, S Eaton <br />
-<i>Genes & development</i> 28 (23), 2636-2651	50	(2014)"
-  date: '201412'
-  image: '/static/img/pub/Rodenfels_2014.png'
-  pmid: '25452274'
-  pmcid: 'PMC4248294'
+- citation: "Cohesion is established during DNA replication utilising chromosome associated cohesin rings as well as those loaded de novo onto nascent DNAs.<br />
+S Madhusudhan, **M Fumasoni**, N J Petela, A W Murray, K A Nasmyth <br />
+<i>Elife</i> 9 (2020)"
+  date: '202006'
+  image: '/static/img/pub/Srinivasan_2020.png'
+  pmid: '32515737'
+  pmcid: 'PMC7282809'
   links:
-    - name: Remembering Suzanne
-      url: https://www.mpi-cbg.de/institute/remembering-suzanne/
-    - name: Shevchenko Lab @ MPI-CBG
-      url: https://www.mpi-cbg.de/research-groups/current-groups/andrej-shevchenko/research-focus/
+    - name: Nasmyth Lab @ University of Oxford
+      url: https://www.bioch.ox.ac.uk/research/nasmyth/
+    - name: Murray Lab @ Harvard University
+      url: https://murraylab.fas.harvard.edu/
 
-- citation: "The genetic interactome of prohibitins: coordinated control of cardiolipin and phosphatidylethanolamine <br /> by conserved regulators in mitochondria <br />
-C Osman, M Haag, C Potting, **J Rodenfels**, PV Dip, FT Wieland, B Brügger, B Westermann, T Langer <br />
-<i>Journal of Cell Biology</i> 184 (4), 583-596 (2009)"
-  date: '200902'
-  pmid: '19221197'
-  image: '/static/img/pub/placeholder.png'
+
+- citation: "Evolutionary repair experiments as a window to the molecular diversity of life.<br />
+T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray <br />
+<i>Current Biology</i> 30 (10), (2020)"
+  date: '202005'
+  pmid: '32428498'
+  pmcid: 'PMC7295036'
+  image: '/static/img/pub/LaBar_2020.png'
   links:
-    - name: Westermann Lab @ Bayreuth University
-      url: https://www.zellbiologie.uni-bayreuth.de/en/index.html
-    - name: Osman Lab @ LMU Munich
-      url: https://www.cellbiology.bio.lmu.de/research_groups/osman/index.html
-    - name: Langer Lab @ MPI for Ageing
-      url: https://www.age.mpg.de/science/research-laboratories/langer/
+    - name: Murray Lab @ Harvard University
+      url: https://murraylab.fas.harvard.edu/
+
+
+- citation: "The evolutionary plasticity of chromosome metabolism allows adaptation to constitutive DNA replication stress.<br />
+**M Fumasoni** and A W. Murray <br />
+<i>Elife</i> 9 (2020)"
+  date: '202002'
+  pmid: '32043971'
+  pmcid: 'PMC7069727'
+  image: '/static/img/pub/Fumasoni_2020a.png'
+  links:
+    - name: Murray Lab @ Harvard University
+      url: https://murraylab.fas.harvard.edu/
+
+
+- citation: "Error-free DNA damage tolerance and sister chromatid proximity during DNA replication rely on the Polα/Primase/Ctf4 Complex.<br />
+**M Fumasoni**, K Zwicky, F Vanoli, M Lopes, D Branzei <br />
+<i>Molecular cell</i> 57 (5) (2015)"
+  date: '201503'
+  pmid: '25661486'
+  pmcid: 'PMC4352764'
+  image: '/static/img/pub/Fumasoni_2015.png'
+  links:
+    - name: Branzei Lab @ IGM
+      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
+
+
+- citation: "DNA bending facilitates the error‐free DNA damage tolerance pathway and upholds genome integrity.<br />
+V Gonzalez‐Huici, B Szakal, M Urulangodi, I Psakhye, F Castellucci, D Menolfi, E Rajakumara, **M Fumasoni**, R Bermejo, S Jentsch, D Branzei <br />
+<i>The EMBO journal</i> 33 (4) (2014)"
+  date: '201402'
+  pmid: '24473148'
+  pmcid: 'PMC3983681'
+  image: '/static/img/pub/Gonzalez_2014.png'
+  links:
+    - name: Branzei Lab @ IGM
+      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
+    - name: former research site of the Jentsch Lab
+      url: https://www.biochem.mpg.de/6788148/jentsch-obituary
+
+
+- citation: "Noncanonical role of the 9-1-1 clamp in the error-free DNA damage tolerance pathway.<br />
+G I Karras, **M Fumasoni**, G Sienski, F Vanoli, D Branzei, S Jentsch <br />
+<i>Molecular cell</i> 49 (3) (2013)"
+  date: '201302'
+  pmid: '23260657'
+  image: '/static/img/pub/Karras_2013.png'
+  links:
+    - name: former research site of the Jentsch Lab
+      url: https://www.biochem.mpg.de/6788148/jentsch-obituary
+    - name: Branzei Lab @ IGM
+      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
+
+
+- citation: "Replication and recombination factors contributing to recombination-dependent bypass of DNA lesions by template switch.<br />
+F Vanoli, **M Fumasoni**, B Szakal, L Maloisel, D Branzei <br />
+<i>PLoS genetics</i> 6 (11) (2010)"
+  date: '201011'
+  pmid: '21085632'
+  pmcid: 'PMC2978687'
+  image: '/static/img/pub/Vanoli_2010.png'
+  links:
+    - name: Branzei Lab @ IGM
+      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
+
+
+- citation: "Sgs1 function in the repair of DNA replication intermediates is separable from its role in homologous recombinational repair.<br />
+K A Bernstein, E Shor, I Sunjevaric, **M Fumasoni**, R C Burgess, M Foiani, D Branzei, R Rothstein <br />
+<i>The EMBO Journal</i> 28 (7) (2009)"
+  date: '200904'
+  pmid: '19214189'
+  pmcid: 'PMC2670856'
+  image: '/static/img/pub/Bernstein_2009.png'
+  links:
+    - name: Rothstein Lab @ Columbia University
+      url: http://www.rothsteinlab.com/
+    - name: Branzei Lab @ IGM
+      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
