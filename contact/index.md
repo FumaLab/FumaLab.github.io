@@ -27,8 +27,8 @@ group: contact
   <br>
 
   <div class="googlemaps">
-        <iframe width="480" height="360" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.2972947006265!2d7.277682451005758!3d43.7251505556908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cdc5446a72ec7f:0x165476a981af4e79!2s28%20Avenue%20de%20Valombrose,%2006100%20Nice!5e0!3m2!1sen!2sfr!4v1477510855195">
-        </iframe>
+      <iframe width="480" height="360" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.2972947006265!2d7.277682451005758!3d43.7251505556908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cdc5446a72ec7f:0x165476a981af4e79!2s28%20Avenue%20de%20Valombrose,%2006100%20Nice!5e0!3m2!1sen!2sfr!4v1477510855195">
+      </iframe>
   </div>
 
 </div>
