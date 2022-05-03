@@ -42,6 +42,10 @@ group: team
           <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
           <a href= "http://github.com/{{person.github}}"> {{person.github}} </a> <br>
         {% endif %}
+        {% if person.cv %}
+          <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/orcidid_logo.svg"></a>
+          <a href="https://docs.google.com/document/d/{{person.cv}}"> {{person.cv}}</a> <br>
+        {% endif %}
     </div>
     <div class="col-sm-8">
         <p class="text-justify">{{person.description | markdownify}}</p>
