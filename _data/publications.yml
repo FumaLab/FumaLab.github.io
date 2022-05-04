@@ -63,7 +63,7 @@ A G Korovesi, L Morgado, M Fumasoni, R Henriques, H Heil, M Del Rosario.<br />
     - name: checkout the paper here
       url: https://www.preprints.org/manuscript/202203.0146/v1
     - name: Henriques Lab @ IGC
-      url: https://henriqueslab.github.io/
+      url: https://henriqueslab.github.io/ {:target="_blank"}
 
 
 - citation: "*Parental histone deposition on the replicated strands promotes error-free DNA damage tolerance and regulates drug resistance.*<br />
