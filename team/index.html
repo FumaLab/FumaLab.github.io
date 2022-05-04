@@ -20,12 +20,12 @@ group: team
         <br>
         <em>{{person.email}}</em> <br>
         {% if person.website %}
-          <a href="{{person.website}}"><img class="inline-block mem-icon" src="/static/img/Globe.svg"></a>
+          <a href="{{person.website}}" target="_blank"><img class="inline-block mem-icon" src="/static/img/Globe.svg"></a>
           <a style="overflow-wrap: break-word;" href= "http://{{person.website}}">{{person.website}}</a> <br>
         {% endif %}
         {% if person.orcid %}
           <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/orcidid_logo.svg"></a>
-          <a href="http://orcid.org/{{person.orcid}}"> {{person.orcid}}</a> <br>
+          <a href="http://orcid.org/{{person.orcid}}" target="_blank"> {{person.orcid}}</a> <br>
         {% endif %}
         {% if person.linkedin %}
           <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/lin_logo.svg"></a>
