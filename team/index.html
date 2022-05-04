@@ -9,7 +9,7 @@ group: team
     <div class="col-sm-4">
         <img class="img-fluid" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"; width="365"; height="365"><br>
         <strong>{{person.name}}</strong> 
-        <img class="img-fluid" src="{{person.flag}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.flag}}';" {% endif %} alt="{{person.name}}"; height="10"><br>
+        <img class="img-fluid" src="{{person.flag}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.flag}}';" {% endif %} alt="{{person.name}}"; height='10'><br>
         {% if person.pronouns %}
           <em>{{person.pronouns}}</em> <br>
         {% endif %}
