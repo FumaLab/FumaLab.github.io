@@ -29,7 +29,7 @@ group: publications
 
 			<!--Preprint - optional -->
 			{% if publication.preprint %}
-			<li>Preprint: <a href="{{publication.preprint}}" alt = "preprint link: {{publication.preprint}}" target="_blank"> {{publication.preprint | split: "." | last }}</a></li>
+			<li>Preprint: <a href="{{publication.preprint}}" alt = "preprint link: {{publication.preprint}}" target="_blank"> {{publication.preprint | split: "/" | last }}</a></li>
 			{% endif %}
 
 
