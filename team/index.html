@@ -29,23 +29,19 @@ group: team
         {% endif %}
         {% if person.linkedin %}
           <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/lin_logo.svg"></a>
-          <a href= "http://www.linkedin.com/in/{{person.linkedin}}"> {{person.linkedin}} </a> <br>
-        {% endif %}
-        {% if person.UCSF %}
-          <a href="http://www.ucsf.edu"><img class="inline-block mem-icon" src="/static/img/ucsf_logo_black.svg"></a>
-          <a href= "http://profiles.ucsf.edu/profile/{{person.UCSF}}"> Profile </a> <br>
+          <a href= "http://www.linkedin.com/in/{{person.linkedin}}" target="_blank"> {{person.linkedin}} </a> <br>
         {% endif %}
         {% if person.scholar %}
           <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/gscholar_logo.svg"></a>
-          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
+          <a href= "http://scholar.google.com/citations?user={{person.scholar}}" target="_blank"> Scholar Citations </a> <br>
         {% endif %}
         {% if person.twitter %}
           <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/twitter2_logo.svg"></a>
-          <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
+          <a href= "http://twitter.com/{{person.twitter}}" target="_blank"> @{{person.twitter}} </a> <br>
         {% endif %}
         {% if person.github %}
           <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
-          <a href= "http://github.com/{{person.github}}"> {{person.github}} </a> <br>
+          <a href= "http://github.com/{{person.github}}" target="_blank"> {{person.github}} </a> <br>
         {% endif %}
     </div>
     <div class="col-sm-8">
