@@ -12,7 +12,7 @@
   cv: 1CoLsHcOnvvzF0uaVwRb4GS7MoAPy9QcUlQ7OWb0Hlm4
   github: FumaLab
   description: 'Previously:<br>
-                [HFSP](https://www.hfsp.org/){:target="_blank"}/[EMBO](https://www.embo.org/){:target="_blank"} postdoctoral fellow @ [Harvard](https://www.mcb.harvard.edu/){:target="_blank"}
+                [HFSP](https://www.hfsp.org/){:target="_blank"}/[EMBO](https://www.embo.org/){:target="_blank"} postdoctoral fellow @ [Harvard](https://www.mcb.harvard.edu/){:target="_blank"}<br>
 
                 PhD @ [IFOM](https://www.ifom.eu/en/){:target="_blank"}/[SEMM](https://www.semm.it/){:target="_blank"}/[University of Milan](https://www.unimi.it/en){:target="_blank"}'
 
@@ -27,10 +27,10 @@
   #UCSF: 186628
   #orcid: 0000-0002-4507-7824
   #github: fitzvero
-  description: 'M.Sc. @ University of Porto
+  description: 'Previously:<br>
+                M.Sc. @ [University of Porto](https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=home){:target="_blank"}<br>
 
-
-                B.Sc. @ FCT Nova'
+                B.Sc. @ [FCT Nova](https://www.fct.unl.pt/){:target="_blank"}<br>'
 
 - name: Veronika Fitz
   image: /static/img/Vero.jpeg
@@ -40,22 +40,23 @@
   scholar: V4ST5EwAAAAJ&hl
   #orcid: 0000-0002-4507-7824
   #github: fitzvero
-  description: 'PhD @ MPI-CBG Dresden
+  description: 'Previously:<br>
+                PhD @ [MPI-CBG Dresden](https://www.mpi-cbg.de/){:target="_blank"}<br>
 
-
-                M.Sc. @ IMP Vienna'
+                M.Sc. @ [IMP Vienna](https://www.imp.ac.at/){:target="_blank"}<br>'
 
 - name: Francesca Rizzo
   image: /static/img/Francesca.png
   position: Erasmus student
   email: frizzo (at) igc.gulbenkian.pt
-  description: 'M.Sc @ University of Pavia'
+  description: 'Previously:<br>
+                M.Sc @ [University of Pavia](https://web-en.unipv.it/){:target="_blank"}<br>'
 
 - name: Matilde Fonseca
   image: /static/img/matilde.jpeg
   position: Undergraduate intern
   #email: frizzo (at)igc.gulbenkian.pt
-  description: 'B.Sc. student @ FCT NOVA'
+  description: 'B.Sc. student @ [FCT NOVA](https://www.fct.unl.pt/){:target="_blank"}<br>'
   
                 
 - name: This could be you
