@@ -62,8 +62,6 @@ A G Korovesi, L Morgado, M Fumasoni, R Henriques, H Heil, M Del Rosario.<br />
   links:
     - name: checkout the paper here
       url: https://www.preprints.org/manuscript/202203.0146/v1
-    - name: Fumasoni Lab @ IGC
-      url: https://fumalab.github.io/
     - name: Henriques Lab @ IGC
       url: https://henriqueslab.github.io/
 
@@ -76,8 +74,8 @@ V Dolce, S Dusi, M Giannattasio, C R Joseph, **M Fumasoni**, D Branzei<br />
   pmid: '35115379'
   pmcid: 'PMC8887126' 
   links:
-    - name: Branzei Lab @ IGM
-      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
+    - name: Branzei Lab @ IFOM
+      url: https://www.ifom.eu/en/cancer-research/research-labs/research-lab-branzei.php
 
 - citation: "*Ploidy and recombination proficiency shape the evolutionary adaptation to constitutive DNA replication stress.*<br />
 **M Fumasoni** and A W. Murray<br /> 
@@ -87,8 +85,6 @@ V Dolce, S Dusi, M Giannattasio, C R Joseph, **M Fumasoni**, D Branzei<br />
   pmid: '34752451'
   pmcid: 'PMC8604288'
   links:
-    - name: Fumasoni Lab @ IGC
-      url: https://fumalab.github.io/
     - name: Murray Lab @ Harvard University
       url: https://murraylab.fas.harvard.edu/
 
@@ -150,8 +146,8 @@ T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray<br />
   pmcid: 'PMC4352764'
   image: '/static/img/pub/Fumasoni_2015.png'
   links:
-    - name: Branzei Lab @ IGM
-      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
+    - name: Branzei Lab @ IFOM
+      url: https://www.ifom.eu/en/cancer-research/research-labs/research-lab-branzei.php
 
 
 - citation: "*DNA bending facilitates the error‐free DNA damage tolerance pathway and upholds genome integrity.*<br />
@@ -162,9 +158,9 @@ V Gonzalez‐Huici, B Szakal, M Urulangodi, I Psakhye, F Castellucci, D Menolfi,
   pmcid: 'PMC3983681'
   image: '/static/img/pub/Gonzalez_2014.png'
   links:
-    - name: Branzei Lab @ IGM
-      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
-    - name: former research site of the Jentsch Lab
+    - name: Branzei Lab @ IFOM
+      url: https://www.ifom.eu/en/cancer-research/research-labs/research-lab-branzei.php
+    - name: Jentsch Lab @ MPI-biochemestry
       url: https://www.biochem.mpg.de/6788148/jentsch-obituary
 
 
@@ -175,10 +171,10 @@ G I Karras, **M Fumasoni**, G Sienski, F Vanoli, D Branzei, S Jentsch <br />
   pmid: '23260657'
   image: '/static/img/pub/Karras_2013.png'
   links:
-    - name: former research site of the Jentsch Lab
+    - name: Jentsch Lab @ MPI-biochemestry
       url: https://www.biochem.mpg.de/6788148/jentsch-obituary
-    - name: Branzei Lab @ IGM
-      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
+    - name: Branzei Lab @ IFOM
+      url: https://www.ifom.eu/en/cancer-research/research-labs/research-lab-branzei.php
 
 
 - citation: "*Replication and recombination factors contributing to recombination-dependent bypass of DNA lesions by template switch.*<br />
@@ -189,8 +185,8 @@ F Vanoli, **M Fumasoni**, B Szakal, L Maloisel, D Branzei <br />
   pmcid: 'PMC2978687'
   image: '/static/img/pub/Vanoli_2010.png'
   links:
-    - name: Branzei Lab @ IGM
-      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
+    - name: Branzei Lab @ IFOM
+      url: https://www.ifom.eu/en/cancer-research/research-labs/research-lab-branzei.php
 
 
 - citation: "*Sgs1 function in the repair of DNA replication intermediates is separable from its role in homologous recombinational repair.*<br />
@@ -203,5 +199,5 @@ K A Bernstein, E Shor, I Sunjevaric, **M Fumasoni**, R C Burgess, M Foiani, D Br
   links:
     - name: Rothstein Lab @ Columbia University
       url: http://www.rothsteinlab.com/
-    - name: Branzei Lab @ IGM
-      url: https://www.igm.cnr.it/en/institute/organization/staff/branzei-dana/
+    - name: Branzei Lab @ IFOM
+      url: https://www.ifom.eu/en/cancer-research/research-labs/research-lab-branzei.php
