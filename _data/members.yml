@@ -67,4 +67,5 @@
 - name: This could be you
   #pronouns: he/she/they
   image: /static/img/hands_crop.jpeg
+  image: /static/img/all.png
   description:
