@@ -19,6 +19,7 @@
 
 - name: Mariana Natalino
   image: /static/img/Mariana.png
+  flag: /static/img/portugal.png
   position: PhD student
   email: mnatalino (at) igc.gulbenkian.pt
   #website: fitzvero.github.io
@@ -35,6 +36,7 @@
 
 - name: Veronika Fitz
   image: /static/img/Vero.jpeg
+  flag: /static/img/austria.png
   position: Lab Manager
   email: vfitz (at) igc.gulbenkian.pt
   #website: fitzvero.github.io
@@ -48,6 +50,7 @@
 
 - name: Francesca Rizzo
   image: /static/img/Francesca.png
+  flag: /static/img/italy.png
   position: Erasmus student
   email: frizzo (at) igc.gulbenkian.pt
   description: 'Previously:<br>
@@ -55,6 +58,7 @@
 
 - name: Matilde Fonseca
   image: /static/img/matilde.jpeg
+  flag: /static/img/portugal.png
   position: Undergraduate intern
   #email: frizzo (at)igc.gulbenkian.pt
   description: 'B.Sc. student @ [FCT NOVA](https://www.fct.unl.pt/){:target="_blank"}<br>'
