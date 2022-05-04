@@ -83,6 +83,7 @@ V Dolce, S Dusi, M Giannattasio, C R Joseph, **M Fumasoni**, D Branzei<br />
 <i>PLoS genetics</i>, 17 (11), (2021)"
   date: '202111'
   image: '/static/img/pub/Fumasoni_2021.png'
+  DOI: 10.1371/journal.pgen.1009875
   pmid: '34752451'
   pmcid: 'PMC8604288'
   links:
@@ -94,6 +95,7 @@ V Dolce, S Dusi, M Giannattasio, C R Joseph, **M Fumasoni**, D Branzei<br />
 <i>MBio</i> 11 (5), (2020)"
   date: '202010'
   image: '/static/img/pub/Fumasoni_2020.png' 
+  DOI: 10.1128/mBio.02043-20
   pmid: '33109768'
   pmcid: 'PMC7593964'
   links:
@@ -106,6 +108,7 @@ S Madhusudhan, **M Fumasoni**, N J Petela, A W Murray, K A Nasmyth <br />
 <i>Elife</i> 9 (2020)"
   date: '202006'
   image: '/static/img/pub/Srinivasan_2020.png'
+  DOI: 10.7554/eLife.56611
   pmid: '32515737'
   pmcid: 'PMC7282809'
   links:
@@ -119,6 +122,7 @@ S Madhusudhan, **M Fumasoni**, N J Petela, A W Murray, K A Nasmyth <br />
 T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray<br />
 <i>Current Biology</i> 30 (10), (2020)"
   date: '202005'
+  DOI: 10.1016/j.cub.2020.03.046
   pmid: '32428498'
   pmcid: 'PMC7295036'
   image: '/static/img/pub/LaBar_2020.png'
@@ -131,6 +135,7 @@ T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray<br />
 **M Fumasoni** and A W. Murray <br />
 <i>Elife</i> 9 (2020)"
   date: '202002'
+  DOI: 10.7554/eLife.51963
   pmid: '32043971'
   pmcid: 'PMC7069727'
   image: '/static/img/pub/Fumasoni_2020a.png'
@@ -143,6 +148,7 @@ T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray<br />
 **M Fumasoni**, K Zwicky, F Vanoli, M Lopes, D Branzei <br />
 <i>Molecular cell</i> 57 (5) (2015)"
   date: '201503'
+  DOI: 10.7554/eLife.51963
   pmid: '25661486'
   pmcid: 'PMC4352764'
   image: '/static/img/pub/Fumasoni_2015.png'
@@ -155,6 +161,7 @@ T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray<br />
 V Gonzalez‐Huici, B Szakal, M Urulangodi, I Psakhye, F Castellucci, D Menolfi, E Rajakumara, **M Fumasoni**, R Bermejo, S Jentsch, D Branzei <br />
 <i>The EMBO journal</i> 33 (4) (2014)"
   date: '201402'
+  DOI: 10.1002/embj.201387425
   pmid: '24473148'
   pmcid: 'PMC3983681'
   image: '/static/img/pub/Gonzalez_2014.png'
@@ -169,6 +176,7 @@ V Gonzalez‐Huici, B Szakal, M Urulangodi, I Psakhye, F Castellucci, D Menolfi,
 G I Karras, **M Fumasoni**, G Sienski, F Vanoli, D Branzei, S Jentsch <br />
 <i>Molecular cell</i> 49 (3) (2013)"
   date: '201302'
+  DOI: 10.1016/j.molcel.2012.11.016
   pmid: '23260657'
   image: '/static/img/pub/Karras_2013.png'
   links:
@@ -182,6 +190,7 @@ G I Karras, **M Fumasoni**, G Sienski, F Vanoli, D Branzei, S Jentsch <br />
 F Vanoli, **M Fumasoni**, B Szakal, L Maloisel, D Branzei <br />
 <i>PLoS genetics</i> 6 (11) (2010)"
   date: '201011'
+  DOI: 10.1371/journal.pgen.1001205
   pmid: '21085632'
   pmcid: 'PMC2978687'
   image: '/static/img/pub/Vanoli_2010.png'
@@ -194,6 +203,7 @@ F Vanoli, **M Fumasoni**, B Szakal, L Maloisel, D Branzei <br />
 K A Bernstein, E Shor, I Sunjevaric, **M Fumasoni**, R C Burgess, M Foiani, D Branzei, R Rothstein <br />
 <i>The EMBO Journal</i> 28 (7) (2009)"
   date: '200904'
+  DOI: 10.1038/emboj.2009.28
   pmid: '19214189'
   pmcid: 'PMC2670856'
   image: '/static/img/pub/Bernstein_2009.png'
