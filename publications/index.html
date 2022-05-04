@@ -18,6 +18,11 @@ group: publications
 	<ul class="col-sm-6">
 			<strong>Access the paper</strong>
 			<!--PMID-->
+			{% if publication.DOI %}
+			<li>DOI: <a href="http://dx.doi.org/{{publication.DOI}}" alt = "DOI link: {{publication.DOI}}" target="_blank"> {{publication.DOI}}</a></li>
+			{% endif %}
+
+			<!--PMID-->
 			{% if publication.pmid %}
 			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}" target="_blank"> {{publication.pmid}}</a></li>
 			{% endif %}
