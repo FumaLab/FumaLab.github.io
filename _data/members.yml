@@ -1,6 +1,6 @@
 - name: Marco Fumasoni
   image: /static/img/Marco.jpeg
-  flag: static/img/italy.png
+  flag: /static/img/italy.png
   # altimage: /static/img/members/Fraser_pb.jpg
   #pronouns: he/him/his
   position: Principal Investigator
