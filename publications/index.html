@@ -27,9 +27,9 @@ group: publications
 			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}" target="_blank"> {{publication.pmcid}}</a></li>
 			{% endif %}
 
-			<!--Biorxiv - optional -->
+			<!--Preprint - optional -->
 			{% if publication.preprint %}
-			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.preprint}}" alt = "preprint link: {{publication.preprint}}" target="_blank"> {{publication.preprint | split: "." | last }}</a></li>
+			<li>Preprint: <a href="{{publication.preprint}}" alt = "preprint link: {{publication.preprint}}" target="_blank"> {{publication.preprint | split: "." | last }}</a></li>
 			{% endif %}
 
 
