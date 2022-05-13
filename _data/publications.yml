@@ -83,6 +83,7 @@ V Dolce, S Dusi, M Giannattasio, C R Joseph, **M Fumasoni**, D Branzei<br />
   date: '202111'
   image: '/static/img/pub/Fumasoni_2021.png'
   DOI: 10.1371/journal.pgen.1009875
+  preprint: https://www.biorxiv.org/content/10.1101/2020.12.17.423282v1
   pmid: '34752451'
   pmcid: 'PMC8604288'
   links:
@@ -135,6 +136,7 @@ T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray<br />
 <i>Elife</i> 9 (2020)"
   date: '202002'
   DOI: 10.7554/eLife.51963
+  preprint: https://www.biorxiv.org/content/10.1101/770859v1
   pmid: '32043971'
   pmcid: 'PMC7069727'
   image: '/static/img/pub/Fumasoni_2020a.png'
