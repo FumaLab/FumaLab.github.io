@@ -29,7 +29,7 @@
   #UCSF: 186628
   #orcid: 0000-0002-4507-7824
   #github: fitzvero
-  description: 'Previously:<br>
+  description: '<u>Previously:</u><br>
                 M.Sc. @ [University of Porto](https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=home){:target="_blank"}<br>
 
                 B.Sc. @ [FCT Nova](https://www.fct.unl.pt/){:target="_blank"}<br>'
@@ -43,7 +43,7 @@
   scholar: V4ST5EwAAAAJ&hl
   #orcid: 0000-0002-4507-7824
   #github: fitzvero
-  description: 'Previously:<br>
+  description: '<u>Previously:</u><br>
                 PhD @ [MPI-CBG Dresden](https://www.mpi-cbg.de/){:target="_blank"}<br>
 
                 M.Sc. @ [IMP Vienna](https://www.imp.ac.at/){:target="_blank"}<br>'
@@ -53,7 +53,7 @@
   flag: /static/img/italy.png
   position: Erasmus student
   email: frizzo (at) igc.gulbenkian.pt
-  description: 'Previously:<br>
+  description: '<u>Previously:</u><br>
                 M.Sc @ [University of Pavia](https://web-en.unipv.it/){:target="_blank"}<br>'
 
 - name: Matilde Fonseca
