@@ -4,4 +4,4 @@ author: Marco
 layout: post
 group: news
 ---
-<img src="/static/img/labpics/202202.jpeg" alt="FumaLab 2022" width="600">
+<img src="/static/img/labpics/202202.jpeg" alt="FumaLab 2022" width="800">
