@@ -1,5 +1,5 @@
 ---
-title: We are online!
+title: We are online
 author: Marco
 layout: post
 group: news

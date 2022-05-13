@@ -1,5 +1,5 @@
 ---
-title: New lab pic!
+title: New lab pic
 author: Marco
 layout: post
 group: news
