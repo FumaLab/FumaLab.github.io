@@ -27,9 +27,9 @@
 }
 
 .parall {
-  height: 500px;
+  height: 600px;
   background-attachment: fixed;
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   display: flex;
