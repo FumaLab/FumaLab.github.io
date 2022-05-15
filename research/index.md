@@ -15,11 +15,11 @@ We use a multidisciplinary approach that takes advantage of techniques and conce
 #### Open Science
 We do our best to promote Open Science. Below are a number of initiatives and associations we support:
 
-[<img src="/static/img/asapbio-logo.png" border="10">](https://asapbio.org/){:target="_blank"}
-[<img src="/static/img/biorxiv2.jpeg" border="10">](https://www.biorxiv.org/){:target="_blank"}
-[<img src="/static/img/plans.jpeg" border="10">](https://www.coalition-s.org/){:target="_blank"}
-[<img src="/static/img/reviewcommons.jpeg" border="10">](https://www.reviewcommons.org/){:target="_blank"}
-[<img src="/static/img/pci.jpeg" border="10">](https://peercommunityin.org/){:target="_blank"}
-[<img src="/static/img/dora.jpeg" border="10">](https://sfdora.org/){:target="_blank"}
+[<img src="/static/img/asapbio-logo.png" border="30">](https://asapbio.org/){:target="_blank"}
+[<img src="/static/img/biorxiv2.jpeg" border="30">](https://www.biorxiv.org/){:target="_blank"}
+[<img src="/static/img/plans.jpeg" border="30">](https://www.coalition-s.org/){:target="_blank"}
+[<img src="/static/img/reviewcommons.jpeg" border="30">](https://www.reviewcommons.org/){:target="_blank"}
+[<img src="/static/img/pci.jpeg" border="30">](https://peercommunityin.org/){:target="_blank"}
+[<img src="/static/img/dora.jpeg" border="30">](https://sfdora.org/){:target="_blank"}
 
 <!--![alt text](https://FumaLab.github.io/static/img/biorxiv2.jpeg?raw=true)-->
