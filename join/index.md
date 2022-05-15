@@ -17,7 +17,7 @@ We are all scientists, at different levels of our paths, with different interest
 Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/){:target="_blank"} program hosted by the IGC. Candidacies from external PhD programs can occasionally be considered. 
 
 ###### <i>Postdoctoral Fellows</i>
-A call for a postdoctoral position is currently open! [here](https://gulbenkian.pt/ciencia/wp-content/uploads/sites/47/2022/05/Call-Fellowship-Internal_MF-1.pdf){:target="_blank"}
+A call for a postdoctoral position is currently open! [here](https://gulbenkian.pt/ciencia/wp-content/uploads/sites/47/2022/05/Call-Fellowship-Internal_MF-1.pdf){:target="_blank"} (deadline June 30th 2022)
 
 
 ###### <i>Undergraduate Students</i>
