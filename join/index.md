@@ -13,7 +13,7 @@ We are all scientists, at different levels of our paths, with different interest
 3. Contribute to the laboratory diversity in terms of gender, ethnicity and social extraction.
 
 
-###### Graduate Students
+###### <i>Graduate Students</i>
 Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/) program hosted by the IGC. Candidacies from external PhD programs can occasionally be considered on a case-by-case basis. 
 
 ###### Postdoctoral Fellows
