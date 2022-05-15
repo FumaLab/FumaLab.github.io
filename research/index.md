@@ -3,7 +3,7 @@ title: Research Interests
 layout: research
 group: research
 ---
-<h3><b>How do essential cellular mechanisms evolve?</b></h3><br>
+<h4><b>How do essential cellular mechanisms evolve?</b></h4><br>
 While early works highlighted the universal principles shared by cells of different kingdoms, new studies are uncovering remarkable differences in how different species execute essential functions. Different species pack their genomes in different sets of chromosomes, which are replicated, segregated, and repaired by different subsets of proteins. The origins of this variability are still a mystery. 
 
 We have recently demonstrated how genome maintenance mechanisms are capable of quick evolutionary re-wiring when perturbed, showing how evolutionary cell biology can be studied experimentally. 
