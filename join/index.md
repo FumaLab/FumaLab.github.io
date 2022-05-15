@@ -12,7 +12,7 @@ We are all scientists, at different levels of our paths, with different interest
 2. Are generous and altruistic towards the other members, especially the youngest ones.
 3. Contribute to the laboratory diversity in terms of gender, ethnicity and social extraction.
 
-
+##### Recruitment calls:
 ###### <i>Graduate Students</i>
 Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/) program hosted by the IGC. Candidacies from external PhD programs can occasionally be considered. 
 
