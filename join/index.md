@@ -10,7 +10,7 @@ We are all scientists, at different levels of our paths, with different interest
 
 1. Are curious about science and biology at large.
 2. Are generous and altruistic towards the other members, especially the youngest ones.
-3. Contribute to the laboratory diversity in terms of gender, ethnicity and social extraction.
+3. Contribute to the laboratory diversity in terms of gender, ethnicity and social background.
 
 ##### Recruitment calls:
 ###### <i>Graduate Students</i>
