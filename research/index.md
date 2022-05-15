@@ -23,4 +23,3 @@ We do our best to promote Open Science. Below are a number of initiatives and as
 [<img src="/static/img/dora.jpeg">](https://sfdora.org/){:target="_blank"}
 
 <!--![alt text](https://FumaLab.github.io/static/img/biorxiv2.jpeg?raw=true)-->
-img {border: 5px solid #555;}
