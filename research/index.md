@@ -16,10 +16,10 @@ We use a multidisciplinary approach that takes advantage of techniques and conce
 We do our best to promote Open Science. Below are a number of initiatives and associations we support:
 
 [<img style="border:10px" src="/static/img/asapbio-logo.png">](https://asapbio.org/){:target="_blank"}
-[<img src="/static/img/biorxiv2.jpeg">](https://www.biorxiv.org/){:target="_blank"}
-[<img src="/static/img/plans.jpeg">](https://www.coalition-s.org/){:target="_blank"}
-[<img src="/static/img/reviewcommons.jpeg">](https://www.reviewcommons.org/){:target="_blank"}
-[<img src="/static/img/pci.jpeg">](https://peercommunityin.org/){:target="_blank"}
-[<img src="/static/img/dora.jpeg">](https://sfdora.org/){:target="_blank"}
+[<img style="border:10px" src="/static/img/biorxiv2.jpeg">](https://www.biorxiv.org/){:target="_blank"}
+[<img style="border:10px" src="/static/img/plans.jpeg">](https://www.coalition-s.org/){:target="_blank"}
+[<img style="border:10px" src="/static/img/reviewcommons.jpeg">](https://www.reviewcommons.org/){:target="_blank"}
+[<img style="border:10px" src="/static/img/pci.jpeg">](https://peercommunityin.org/){:target="_blank"}
+[<img style="border:10px" src="/static/img/dora.jpeg">](https://sfdora.org/){:target="_blank"}
 
 <!--![alt text](https://FumaLab.github.io/static/img/biorxiv2.jpeg?raw=true)-->
