@@ -13,14 +13,13 @@ We are all scientists, at different levels of our paths, with different interest
 3. Contribute to the laboratory diversity in terms of gender, ethnicity and social extraction.
 
 
-#### Undergraduate Students
-Positions are available for undergraduate students interested in cell biology and evolution.
+###### Graduate Students
+Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/) program hosted by the IGC. Candidacies from external PhD programs can occasionally be considered on a case-by-case basis. 
 
-#### Graduate Students
-
-[Join the IGC IBB graduate program](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/)
-
-#### Postdoctoral Fellows
+###### Postdoctoral Fellows
 Positions are available for researchers from a wide variety of backgrounds.
 
-##### Applicants should email a description of research interests, a CV and the names of three potential references to Marco.
+###### Undergraduate Students
+Positions are available for undergraduate students interested in cell biology and evolution.
+
+###### Applicants should email a description of research interests, a CV and the names of three potential references to Marco.
