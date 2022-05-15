@@ -14,12 +14,12 @@ We are all scientists, at different levels of our paths, with different interest
 
 ##### Recruitment calls:
 ###### <i>Graduate Students</i>
-Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/) program hosted by the IGC. Candidacies from external PhD programs can occasionally be considered. 
+Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/){:target="_blank"} program hosted by the IGC. Candidacies from external PhD programs can occasionally be considered. 
 
 ###### <i>Postdoctoral Fellows</i>
 Positions are available for researchers from a wide variety of backgrounds.
 
 ###### <i>Undergraduate Students</i>
-Students can be [recruited at the IGC](https://gulbenkian.pt/ciencia/training/master-projects/) from eligible Portuguese or foreign universities. We encourage foreign students interested in a master at the IGC to take advantage of the [ERASMUS+](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeship-student) program.
+Students can be [recruited at the IGC](https://gulbenkian.pt/ciencia/training/master-projects/){:target="_blank"} from eligible Portuguese or foreign universities. We encourage foreign students interested in a master at the IGC to take advantage of the [ERASMUS+](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeship-student){:target="_blank"} program.
 
 ###### Applicants should email a description of research interests, a CV and the names of three potential references to Marco.
