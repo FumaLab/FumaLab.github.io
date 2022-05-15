@@ -3,12 +3,13 @@ title: Research Interests
 layout: research
 group: research
 ---
+How do essential cellular mechanisms evolve? While early works highlighted the universal principles shared by cells of different kingdoms, new studies are uncovering remarkable differences in how different species execute essential functions. Different species pack their genomes in different sets of chromosomes, which are replicated, segregated, and repaired by different subsets of proteins. The origins of this variability are still a mystery. 
 
-Genome maintenance depends on a number of functional modules that execute and coordinate the complex processes of DNA replication, DNA repair, cell cycle regulation and chromosome segregation.
+We have recently demonstrated how genome maintenance mechanisms are capable of quick evolutionary re-wiring when perturbed, showing how evolutionary cell biology can be studied experimentally. 
 
-We are interested in understanding how cells evolutionary adapt to perturbations in these cellular processes, how the mechanisms of adaptation are influenced by the environment, and what are the physiological and evolutionary consequences of the adaptive changes on organisms.
+In our lab we take advantage of <i>S.cerevisiae</i> as a model eukaryotic organism and we investigate the molecular mechanisms that allow cells to adapt to perturbations in genome maintenance. 
 
-We take advantage of S.cerevisiae as a model eukaryotic organism and we investigate the molecular mechanisms that allow cells to adapt to perturbations in genome maintenance. We use a multidisciplinary approach that takes advantage of techniques and concepts spanning across biological scales: From molecular and cellular biology to genomics, evolutionary and population genetics.
+We use a multidisciplinary approach that takes advantage of techniques and concepts spanning across biological scales: From molecular and cellular biology to genomics, evolutionary and population genetics.
 
 #### Open Science
 We do our best to promote Open Science. Below are a number of initiatives and associations we support:
