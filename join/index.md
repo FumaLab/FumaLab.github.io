@@ -24,4 +24,4 @@ A call for a postdoctoral position is currently open! [here](https://gulbenkian.
 Students can be recruited at the IGC from eligible Portuguese or foreign universities. We encourage foreign students interested in a master at the IGC to take advantage of the [ERASMUS+](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeship-student){:target="_blank"} program.
 
 <br>
-###### All applicants should email a description of research interests, a CV and the names of potential referees to mfumasoni (at) igc.gulbenkian.pt.
+All applicants should email a description of research interests, a CV and the names of potential referees to mfumasoni (at) igc.gulbenkian.pt.
