@@ -32,7 +32,7 @@
   description: '<u>Previously:</u><br>
                 M.Sc. @ [University of Porto](https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=home){:target="_blank"}<br>
 
-                B.Sc. @ [FCT Nova](https://www.fct.unl.pt/){:target="_blank"}<br>'
+                B.Sc. @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}<br>'
 
 - name: Veronika Fitz
   image: /static/img/Vero.jpeg
@@ -61,7 +61,7 @@
   flag: /static/img/portugal.png
   position: Undergraduate intern
   #email: frizzo (at)igc.gulbenkian.pt
-  description: 'B.Sc. student @ [FCT NOVA](https://www.fct.unl.pt/){:target="_blank"}<br>'
+  description: 'B.Sc. student @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}<br>'
   
                 
 - name: This could be you
