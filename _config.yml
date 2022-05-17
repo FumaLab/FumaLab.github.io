@@ -6,7 +6,7 @@ url: "https://fumalab.github.io"
 paginate: 5
 plugins: [jekyll-paginate]
 paginate_path: "news/page:num"
-google_analytics: G-315341276
+google_analytics: G-37E9W9RT20
 permalink: pretty
 markdown: kramdown
 kramdown:
