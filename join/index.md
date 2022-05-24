@@ -17,7 +17,7 @@ We are all scientists, at different levels of our paths, with different interest
 Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/){:target="_blank"} program hosted by the IGC. Calls are held yearly in February/March. Prospective students interested in joining our lab are encouraged to reach out prior to the call deadline. Candidacies from external PhD programs can occasionally be considered. 
 
 ###### <i>Postdoctoral Fellows</i>
-A call for a postdoctoral position is currently open! [here](https://gulbenkian.pt/ciencia/wp-content/uploads/sites/47/2022/05/Call-Fellowship-Internal_MF-1.pdf){:target="_blank"} (deadline June 30th 2022) - The postdoc starting date is flexible!
+A call for a postdoctoral position is currently open! [here](https://gulbenkian.pt/ciencia/wp-content/uploads/sites/47/2022/05/Call-Fellowship-Internal_MF-1.pdf){:target="_blank"} (deadline June 30th 2022) <br>The postdoc starting date is flexible!!
 
 
 ###### <i>Undergraduate Students</i>
