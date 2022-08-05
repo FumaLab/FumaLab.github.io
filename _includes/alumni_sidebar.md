@@ -3,7 +3,7 @@
 
 {% for alum in site.data.alumni %}
 <hr>
-<img class="img-fluid" src="{{alumn.image}}" {% if person.altimage %} onmouseover="this.src='{{alumn.altimage}}';" onmouseout="this.src='{{alumn.image}}';" {% endif %} alt="{{alumn.name}}"; width="365"; height="365"><br>
+<img class="img-fluid" src="{{alumn.image}}" {% if alumn.altimage %} onmouseover="this.src='{{alumn.altimage}}';" onmouseout="this.src='{{alumn.image}}';" {% endif %} alt="{{alumn.name}}"; width="100"; height="100"><br>
 <div id = "{{alum.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{alum.name}}</strong> - <em>{{alum.position}}</em><br>
 {% if alum.startdate %} {{alum.startdate}} - {% endif %}{{alum.enddate}} <br>
