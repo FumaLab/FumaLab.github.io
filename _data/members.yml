@@ -48,7 +48,7 @@
 
                 M.Sc. @ [IMP Vienna](https://www.imp.ac.at/){:target="_blank"}<br>'
 
-- name: Francesca Rizzo
+'- name: Francesca Rizzo
   image: /static/img/Francesca.png
   flag: /static/img/italy.png
   position: Erasmus student
@@ -56,13 +56,13 @@
   description: '<u>Previously:</u><br>
                 M.Sc @ [University of Pavia](https://web-en.unipv.it/){:target="_blank"}<br>'
 
-- name: Matilde Fonseca
+'- name: Matilde Fonseca
   image: /static/img/matilde.jpeg
   flag: /static/img/portugal.png
   position: Undergraduate intern
   #email: frizzo (at)igc.gulbenkian.pt
   description: 'B.Sc. student @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}<br>'
-  
+ 
                 
 - name: This could be you
   #pronouns: he/she/they
