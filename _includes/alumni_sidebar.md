@@ -1,5 +1,5 @@
 
-<b><h1> FumaLab Alumni </h1> </b>
+<b><h3> FumaLab Alumni </h3> </b>
 
 {% for alum in site.data.alumni %}
 <hr>
