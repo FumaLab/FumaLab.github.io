@@ -47,6 +47,11 @@ group: team
     <div class="col-sm-8">
         <p class="text-justify">{{person.description | markdownify}}</p>
     </div>
+
+    <div class="col-sm-5 col-md-4 hidden-xs">
+    {% include alumni_sidebar.md %}
+    </div>
+
 </div>
 <hr>
 {% endfor %}
