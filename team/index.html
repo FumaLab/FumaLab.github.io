@@ -52,7 +52,20 @@ group: team
 {% endfor %}
 <hr>
 
-
-<div class="col-sm-12">
-  {% include alumni_sidebar.md %}
+{% for alum in site.data.alumni %}
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div id = "{{alumn.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+        <img class="img-fluid" src="{{alumn.image}}" {% if alumn.altimage %} onmouseover="this.src='{{alumn.altimage}}';" onmouseout="this.src='{{alumn.image}}';" {% endif %} alt="{{alumn.name}}"; width="100"; height="100"><br>
+        <strong>{{alumn.name}}</strong> 
+        <img class="img-fluid" src="{{alumn.flag}}" {% if alumn.altimage %} onmouseover="this.src='{{alumn.altimage}}';" onmouseout="this.src='{{alumn.flag}}';" {% endif %} alt="{{alumn.name}}"; style="width:auto;height:15px;"><br>
+    </div>
+    
 </div>
+<hr>
+{% endfor %}
+<hr>
+
+#<div class="col-sm-12">
+#  {% include alumni_sidebar.md %}
+#</div>
