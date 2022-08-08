@@ -1,10 +1,12 @@
 - name: Matilde Fonseca
   image: /static/img/matilde.jpeg
+  flag: /static/img/portugal.png
   position: B.Sc Intern
   enddate: 2022
 
 - name: Francesca Rizzo
   image: /static/img/Francesca.png
   position: Erasmus+ Intern
+  flag: /static/img/italy.png
   startdate: 2021
   enddate: 2022
