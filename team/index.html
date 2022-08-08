@@ -63,9 +63,9 @@ group: team
     <div class="col-sm-10">
         <strong>{{alumn.name}}</strong> 
         <img class="img-fluid" src="{{alumn.flag}}" {% if alumn.altimage %} onmouseover="this.src='{{alumn.altimage}}';" onmouseout="this.src='{{alumn.flag}}';" {% endif %} alt="{{alumn.name}}"; style="width:auto;height:15px;">
-        <p><em>{{alum.position}}</em><br>
-        {% if alum.startdate %} {{alum.startdate}} - {% endif %}{{alum.enddate}} <br>
-        {% if alum.current %} Subsequent Position: {{alum.current}} {% endif %} </p>
+        <p><em>{{alumn.position}}</em><br>
+        {% if alumn.startdate %} {{alumn.startdate}} - {% endif %}{{alumn.enddate}} <br>
+        {% if alumn.current %} Subsequent Position: {{alumn.current}} {% endif %} </p>
     </div>
     
 </div>
