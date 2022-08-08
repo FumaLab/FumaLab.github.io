@@ -1,6 +1,8 @@
 - name: Matilde Fonseca
   image: /static/img/matilde.jpeg
   flag: /static/img/portugal.png
+  position: B.Sc Intern
+  startdate: 2022
   description: '  <i>B.Sc Intern <br>
                   2022 </i>'
 
@@ -8,6 +10,9 @@
   image: /static/img/Francesca.png
   position: Erasmus+ Intern
   flag: /static/img/italy.png
+  position: Erasmus+ Intern
+  startdate: 2021
+  enddate: 2022
   description: '  <i>Erasmus+ Intern <br>
                   2021-2022 </i>'
  
