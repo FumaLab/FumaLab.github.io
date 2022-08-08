@@ -1,14 +1,13 @@
 - name: Matilde Fonseca
   image: /static/img/matilde.jpeg
   flag: /static/img/portugal.png
-  description: '  position: B.Sc Intern <br>
-                  enddate: 2022'
+  description: '  Position: <i>B.Sc Intern <br>
+                  2022 </i>'
 
 - name: Francesca Rizzo
   image: /static/img/Francesca.png
   position: Erasmus+ Intern
   flag: /static/img/italy.png
-  description: '  position: Erasmus+ Intern <br>
-                  startdate: 2021<br>
-                  enddate: 2022'
+  description: '  Position: <i>Erasmus+ Intern <br>
+                  2021-2022 </i>'
  
