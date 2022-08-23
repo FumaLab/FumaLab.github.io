@@ -17,6 +17,7 @@ We are all scientists, at different levels of our paths, with different interest
 Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/){:target="_blank"} program hosted by the IGC. Calls are held yearly in February/March. Prospective students interested in joining our lab are encouraged to reach out prior to the call deadline. Candidacies from external PhD programs can occasionally be considered. 
 
 ###### <i>Postdoctoral Fellows</i>
+
 Prospective postdoctoral candidates are warmly invted to reach out to Marco all year round to discuss projects and fellowship possibilities.
 
 ###### <i>Undergraduate Students</i>
