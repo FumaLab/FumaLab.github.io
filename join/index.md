@@ -17,8 +17,7 @@ We are all scientists, at different levels of our paths, with different interest
 Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/){:target="_blank"} program hosted by the IGC. Calls are held yearly in February/March. Prospective students interested in joining our lab are encouraged to reach out prior to the call deadline. Candidacies from external PhD programs can occasionally be considered. 
 
 ###### <i>Postdoctoral Fellows</i>
-A call for a postdoctoral position is currently open! [here](https://gulbenkian.pt/ciencia/wp-content/uploads/sites/47/2022/05/Call-Fellowship-Internal_MF-1.pdf){:target="_blank"} (deadline June 30th 2022) <br>The postdoc starting date is flexible!!
-
+Prospective postdoctoral candidates are warmly invted to reach out to Marco all year round to discuss projects and fellowship possibilities.
 
 ###### <i>Undergraduate Students</i>
 Students can be recruited at the IGC from eligible Portuguese or foreign universities. We encourage foreign students interested in a master at the IGC to take advantage of the [ERASMUS+](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeship-student){:target="_blank"} program.
