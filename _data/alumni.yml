@@ -1,14 +1,13 @@
-- name: Matilde Fonseca
-  image: /static/img/matilde.jpeg
-  flag: /static/img/portugal.png
-  position: B.Sc. Intern
-  enddate: 2022
-
 - name: Francesca Rizzo
   image: /static/img/Francesca.png
   position: Erasmus+ Intern
   flag: /static/img/italy.png
-  position: Erasmus+ Intern
   startdate: 2021
   enddate: 2022
- 
+
+ - name: Atina Kačar
+  image: /static/img/Atina.jpeg
+  position: Summer Student
+  flag: /static/img/Serbia.png
+  startdate: 2022
+  enddate: 2022
