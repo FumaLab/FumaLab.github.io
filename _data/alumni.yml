@@ -4,8 +4,8 @@
   flag: /static/img/italy.png
   startdate: 2021
   enddate: 2022
-
- - name: Atina Kačar
+  
+- name: Atina Kačar
   image: /static/img/Atina.jpeg
   position: Summer Student
   flag: /static/img/Serbia.png
