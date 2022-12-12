@@ -51,17 +51,10 @@
 - name: Matilde Fonseca
   image: /static/img/matilde.jpeg
   flag: /static/img/portugal.png
-  position: Intern
-  email: mrfonseca (at) igc.gulbenkian.pt
-  description: '<u>Previously:</u><br>
-                'B.Sc. student @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}<br>'
-
-#- name: Matilde Fonseca
-#  image: /static/img/matilde.jpeg
-#  flag: /static/img/portugal.png
-#  position: Undergraduate intern
+  position: intern
   #email: frizzo (at)igc.gulbenkian.pt
-#  description: 'B.Sc. student @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}<br>'
+  description: '<u>Previously:</u><br>
+                B.Sc. student @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}<br>'
  
                 
 - name: This could be you
