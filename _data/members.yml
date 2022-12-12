@@ -48,20 +48,13 @@
 
                 M.Sc. @ [IMP Vienna](https://www.imp.ac.at/){:target="_blank"}<br>'
 
-- name: Atina Kačar
-  image: /static/img/Atina.jpeg
-  flag: /static/img/Serbia.png
-  position: Summer Student
+- name: Matilde Fonseca
+  image: /static/img/matilde.jpeg
+  flag: /static/img/portugal.png
+  position: Intern
+  email: mrfonseca (at) igc.gulbenkian.pt
   description: '<u>Previously:</u><br>
-                B.Sc @ [University of Belgrade](http://www.bg.ac.rs/en/members/faculties/FB.php){:target="_blank"}<br>'
-
-#- name: Francesca Rizzo
-#  image: /static/img/Francesca.png
-#  flag: /static/img/italy.png
-#  position: Erasmus student
-#  email: frizzo (at) igc.gulbenkian.pt
-#  description: '<u>Previously:</u><br>
-#                M.Sc @ [University of Pavia](https://web-en.unipv.it/){:target="_blank"}<br>'
+                'B.Sc. student @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}<br>'
 
 #- name: Matilde Fonseca
 #  image: /static/img/matilde.jpeg
