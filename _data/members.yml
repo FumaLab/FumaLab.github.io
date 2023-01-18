@@ -24,7 +24,7 @@
   email: mnatalino(at)igc.gulbenkian.pt
   #website: fitzvero.github.io
   #scholar: RcN_8nkAAAAJ&hl
-  #twitter: marcofumasoni
+  twitter: MarianaNatalin6
   #linkedin: jonathan-rodenfels
   #UCSF: 186628
   #orcid: 0000-0002-4507-7824
@@ -69,6 +69,7 @@
   flag: /static/img/spain.png
   position: Postdoc 
   email: agarona(at)igc.gulbenkian.pt
+  twitter: GaronaAna
   description: '<u>Previously:</u><br>
                 PhD @ [MPI of Evolutionary Biology](https://www.evolbio.mpg.de/2169/en){:target="_blank"} & [University of Kiel](https://www.uni-kiel.de/en/){:target="_blank"}<br>
 
@@ -77,9 +78,11 @@
 - name: Adolfo Alsina
   image: /static/img/Adolfo.jpg
   flag: /static/img/spain.png
-  position: Independent [PONTE Fellow](https://gulbenkian.pt/ciencia/training/postdoctoral-training/ponte/){:target="_blank"} 
+  position: Independent PONTE Fellow
   email: aalsina(at)igc.gulbenkian.pt
-  description: '<u>Previously:</u><br>
+  scholar: LBO33WsAAAAJ
+  description: '[PONTE Fellows Program](https://gulbenkian.pt/ciencia/training/postdoctoral-training/ponte/){:target="_blank"}<br>
+                <u>Previously:</u><br>
                 PhD @ [MPI of Physics of Complex Systems](https://www.pks.mpg.de/){:target="_blank"}<br>
 
                 M.Sc. @ [École Normale Supérieure](https://www.ens.psl.eu/en){:target="_blank"}<br>'
