@@ -93,6 +93,7 @@ group: publications
 			{% endif %}
 
 			<!--Extra junk-->
+			{% if publication.links %}
 			<strong>Additional Links</strong>
 			{% for link in publication.links %}
 			<li><a href="{{link.url}}" alt="{{link.name}}" target="_blank">{{link.name}}</a></li>
