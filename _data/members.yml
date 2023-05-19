@@ -55,6 +55,15 @@
 
                 M.Sc. @ [GRG Barcelona](https://www.crg.eu/){:target="_blank"}<br>'
                 
+- name: Manuel Vásquez 
+  image: /static/img/Manuel.png
+  flag: /static/img/guatemala.png
+  position: PhD student
+  email: mvasquez(at)igc.gulbenkian.pt
+  description: 'M.Sc. @ [International Centre For Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}<br>
+
+                B.Sc. @ [Universidad del Valle de Guatemala](https://www.uvg.edu.gt/){:target="_blank"}<br>'
+ 
 - name: Adolfo Alsina
   image: /static/img/Adolfo.jpg
   flag: /static/img/spain.png
@@ -65,8 +74,7 @@
                 <u>Previously:</u><br>
                 PhD @ [MPI of Physics of Complex Systems](https://www.pks.mpg.de/){:target="_blank"}<br>
 
-                M.Sc. @ [École Normale Supérieure](https://www.ens.psl.eu/en){:target="_blank"}<br>'
-                            
+                M.Sc. @ [École Normale Supérieure](https://www.ens.psl.eu/en){:target="_blank"}<br>' 
 - name: This could be you
   #pronouns: he/she/they
   image: /static/img/hands_crop.jpeg
