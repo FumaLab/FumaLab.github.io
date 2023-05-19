@@ -22,31 +22,11 @@
   flag: /static/img/portugal.png
   position: PhD student
   email: mnatalino(at)igc.gulbenkian.pt
-  #website: fitzvero.github.io
-  #scholar: RcN_8nkAAAAJ&hl
   twitter: MarianaNatalin6
-  #linkedin: jonathan-rodenfels
-  #UCSF: 186628
-  #orcid: 0000-0002-4507-7824
-  #github: fitzvero
   description: '<u>Previously:</u><br>
                 M.Sc. @ [University of Porto](https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=home){:target="_blank"}<br>
 
                 B.Sc. @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}<br>'
-
-- name: Veronika Fitz
-  image: /static/img/Vero.jpeg
-  flag: /static/img/austria.png
-  position: Lab Manager
-  email: vfitz(at)igc.gulbenkian.pt
-  #website: fitzvero.github.io
-  scholar: V4ST5EwAAAAJ&hl
-  #orcid: 0000-0002-4507-7824
-  #github: fitzvero
-  description: '<u>Previously:</u><br>
-                PhD @ [MPI of Molecular Cell Biology and Genetics](https://www.mpi-cbg.de/){:target="_blank"}<br>
-
-                M.Sc. @ [IMP Vienna](https://www.imp.ac.at/){:target="_blank"}<br>'
 
 - name: Matilde Fonseca
   image: /static/img/matilde.jpeg
@@ -86,8 +66,7 @@
                 PhD @ [MPI of Physics of Complex Systems](https://www.pks.mpg.de/){:target="_blank"}<br>
 
                 M.Sc. @ [École Normale Supérieure](https://www.ens.psl.eu/en){:target="_blank"}<br>'
- 
-                
+                            
 - name: This could be you
   #pronouns: he/she/they
   image: /static/img/hands_crop.jpeg
