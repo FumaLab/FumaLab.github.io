@@ -11,3 +11,11 @@
   flag: /static/img/Serbia.png
   startdate: 2022
   enddate: 2022
+  
+- name: Veronika Fitz
+  image: /static/img/Vero.jpeg
+  position: Summer Student
+  flag: /static/img/austria.png
+  startdate: 2021
+  enddate: 2023
+  
