@@ -19,3 +19,9 @@
   startdate: 2021
   enddate: 2023
   
+- name: Matilde Fonseca
+  image: /static/img/matilde.jpeg
+  position: Intern
+  flag: /static/img/portugal.png
+  startdate: 2022
+  enddate: 2023
