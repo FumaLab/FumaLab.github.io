@@ -18,7 +18,7 @@ Graduate students are recruited through the [Integrative Biology and Biomedicine
 
 ###### <i>Postdoctoral Fellows</i>
 
-Prospective postdoctoral candidates are warmly invted to reach out to Marco all year round to discuss projects and fellowship possibilities.
+We are currently looking for a postdoc to join our team (preferentially starting in Early 2024). Eligeble candidates for this funded position should have obtained a PhD After January 2021. Students planning to defend their PhD in the coming months are also encouraged to apply. Potential candidates are invited to express their initial interest, by email, writing at mfumasoni(@)igc.gulbenkian.pt  
 
 ###### <i>Undergraduate Students</i>
 Students can be recruited at the IGC from eligible Portuguese or foreign universities. We encourage foreign students interested in a master at the IGC to take advantage of the [ERASMUS+](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeship-student){:target="_blank"} program.
