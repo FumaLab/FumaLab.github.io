@@ -67,7 +67,13 @@
                 PhD @ [MPI of Physics of Complex Systems](https://www.pks.mpg.de/){:target="_blank"}<br>
 
                 M.Sc. @ [École Normale Supérieure](https://www.ens.psl.eu/en){:target="_blank"}<br>' 
-                
+- name: Patricia Martins
+  image: /static/img/patricia.jpg
+  flag: /static/img/portugal.png
+  position: intern
+  email: 	pamartins(at)igc.gulbenkian.pt
+  description: '<u>Previously:</u><br>
+                B.Sc. student @ [University NOVA FCT](https://www.fct.unl.pt/en){:target="_blank"}<br>'
 - name: This could be you
   #pronouns: he/she/they
   image: /static/img/hands_crop.jpeg
