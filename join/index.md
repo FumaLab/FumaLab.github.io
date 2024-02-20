@@ -13,14 +13,18 @@ We are all scientists, at different levels of our paths, with different interest
 3. Contribute to the laboratory diversity in terms of gender, ethnicity and social background.
 
 ##### Recruitment calls:
+
 ###### <i>Graduate Students</i>
 Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/){:target="_blank"} program hosted by the IGC. Calls are held yearly in February/March. Prospective students interested in joining our lab are encouraged to reach out prior to the call deadline. Candidacies from external PhD programs can occasionally be considered. 
 
 ###### <i>Postdoctoral Fellows</i>
 Potential candidates are invited to express their initial interest all year round, by email, writing at mfumasoni(@)igc.gulbenkian.pt  
 
+###### <i>Lab Managers and technicians</i>
+We are welcoming applications for prospective lab managers and lab technicians. The ideal candiates would have previous experience in microbiology, and be willing to learn the common techniques used in the lab. 
+
 ###### <i>Undergraduate Students</i>
 Students can be recruited at the IGC from eligible Portuguese or foreign universities. We encourage foreign students interested in a master at the IGC to take advantage of the [ERASMUS+](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeship-student){:target="_blank"} program.
 
 <br>
-All applicants should email a description of research interests, a CV and the names of potential referees to mfumasoni (at) igc.gulbenkian.pt.
+All applicants should email a description of interests, a CV and the names of potential referees (if applicable) to mfumasoni (at) igc.gulbenkian.pt.
