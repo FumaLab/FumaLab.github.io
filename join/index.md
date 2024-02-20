@@ -21,7 +21,7 @@ Graduate students are recruited through the [Integrative Biology and Biomedicine
 Potential candidates are invited to express their initial interest all year round, by email, writing at mfumasoni(@)igc.gulbenkian.pt  
 
 ###### <i>Lab Managers and technicians</i>
-We are welcoming applications for prospective lab managers and lab technicians. The ideal candiates would have previous experience in microbiology, and be willing to learn the common techniques used in the lab. 
+We are welcoming applications for prospective lab managers and lab technicians. The ideal candidates would have previous experience in microbiology and be willing to learn the common techniques used in the lab.
 
 ###### <i>Undergraduate Students</i>
 Students can be recruited at the IGC from eligible Portuguese or foreign universities. We encourage foreign students interested in a master at the IGC to take advantage of the [ERASMUS+](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeship-student){:target="_blank"} program.
