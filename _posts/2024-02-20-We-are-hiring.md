@@ -5,7 +5,7 @@ layout: post
 group: news
 ---
 
-<b><u>We have funded positions available!</u></b> At this stage we are open to applications for <span style="color: darkred; font-weight: bold;"> Postdocs, PhD and Master students, Lab managers and Technicians</span>. 
+<b><u>We have funded positions available!</u></b> At this stage we are open to applications for <span style="color: darkred; font-weight: bold;"> <u>Postdocs, PhD and Master students, Lab managers and Technicians </u></span>. 
 Come and join us in exploring the wonders and evolution of genome maintenance processes, and engage with the extended LifeScience community in Lisbon! Details <a href="fumalab.github.io/join target="_blank">here</a>. 
 <br>
 <br>
