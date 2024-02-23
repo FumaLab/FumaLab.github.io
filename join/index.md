@@ -15,7 +15,7 @@ We are all scientists, at different levels of our paths, with different interest
 ##### Recruitment calls:
 
 ###### <i>Graduate Students</i>
-Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/){:target="_blank"} program hosted by the IGC. Calls are held yearly in February/March. Prospective students interested in joining our lab are encouraged to reach out prior to the call deadline. Candidacies from external PhD programs can occasionally be considered. 
+Graduate students are recruited through the [Integrative Biology and Biomedicine](https://gulbenkian.pt/ciencia/training/phd-programmes/ibb/){:target="_blank"} program hosted by the IGC. The [2024 call](https://igc.idloom.events/ibb-2024?preview=65c1fc551ca14){:target="_blank"} is open now! (Deadline 29/03/2024) . Prospective students interested in joining our lab are encouraged to reach out prior to the call deadline. Candidacies from external PhD programs can be considered. 
 
 ###### <i>Postdoctoral Fellows</i>
 Potential candidates are invited to express their initial interest all year round, by email, writing at mfumasoni(@)igc.gulbenkian.pt  
