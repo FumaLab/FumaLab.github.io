@@ -74,6 +74,13 @@
   email: 	pamartins(at)igc.gulbenkian.pt
   description: '<u>Previously:</u><br>
                 B.Sc. student @ [University NOVA FCT](https://www.fct.unl.pt/en){:target="_blank"}<br>'
+- name: Joana Boas
+  image: /static/img/joana.png
+  flag: /static/img/portugal.png
+  position: intern
+  email: 	jboas(at)igc.gulbenkian.pt
+  description: '<u>Previously:</u><br>
+                M.Sc. student @ [University of Lisbon](https://ciencias.ulisboa.pt/en){:target="_blank"}<br>'
 - name: This could be you
   #pronouns: he/she/they
   image: /static/img/hands_crop.jpeg
