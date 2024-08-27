@@ -10,4 +10,4 @@ Second FumaLab retreat in the beautiful Alentejo. This time with special guests
 <a href="https://murraylab.fas.harvard.edu/" target="_blank">Andrew Murray</a> from Harvard University.
 <br>
 <br>
-<img src="/static/img/labpics/2024retreat.png" alt="2023 FumaLab retreat" width="750">
+<img src="/static/img/labpics/2024retreat.png" alt="2024 FumaLab retreat" width="750">
