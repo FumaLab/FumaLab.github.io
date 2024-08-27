@@ -8,4 +8,4 @@ Congratulations to Mina for her final presentation for her
 <a href="https://www.flad.pt/en/education-contests/" target="_blank"> FLAD </a> intership!
 
 <br>
-<img src="/static/img/labpics/GulbenkianTalent.png" alt="Patricia presenting" width="750">
+<img src="/static/img/labpics/FLAD_mina.png" alt="Mina presenting" width="750">
