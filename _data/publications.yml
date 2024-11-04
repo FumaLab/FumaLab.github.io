@@ -60,7 +60,7 @@
   DOI: https://doi.org/10.1101/2024.10.29.620637
   
 - citation: "***Experimental approaches to study evolutionary cell biology using yeasts.***<br />
-**M Natalino**, **M Fumasoni**<br /> 
+<u>M Natalino</u>, <u>M Fumasoni</u><br /> 
 <i>Yeast</i>, 2023"
   date: '202303'
   image: '/static/img/pub/Natalino_Fumasoni_2023.png'
@@ -70,7 +70,7 @@
   #pmcid: 'PMC8604288'
 
 - citation: "***Expansion Microscopy on Saccharomyces cerevisiae.***<br />
-A G Korovesi, L Morgado, **M Fumasoni**, R Henriques, H Heil, M Del Rosario.<br /> 
+A G Korovesi, L Morgado, <u>M Fumasoni</u>, R Henriques, H Heil, M Del Rosario.<br /> 
 <i>microPublication Biology</i>, 2022"
   date: '202205'
   image: '/static/img/pub/Korovesi_2022.png'
@@ -83,7 +83,7 @@ A G Korovesi, L Morgado, **M Fumasoni**, R Henriques, H Heil, M Del Rosario.<br 
       url: https://henriqueslab.github.io/
 
 - citation: "***Parental histone deposition on the replicated strands promotes error-free DNA damage tolerance and regulates drug resistance.***<br />
-V Dolce, S Dusi, M Giannattasio, C R Joseph, **M Fumasoni**, D Branzei<br />
+V Dolce, S Dusi, M Giannattasio, C R Joseph, <u>M Fumasoni</u>, D Branzei<br />
 <i>Genes & Development</i> 36 (3-4), 167-179 (2022)"
   date: '202202'
   image: '/static/img/pub/Dolce_2022.png'
@@ -95,7 +95,7 @@ V Dolce, S Dusi, M Giannattasio, C R Joseph, **M Fumasoni**, D Branzei<br />
       url: https://www.ifom.eu/en/cancer-research/research-labs/research-lab-branzei.php
 
 - citation: "***Ploidy and recombination proficiency shape the evolutionary adaptation to constitutive DNA replication stress.***<br />
-**M Fumasoni** and A W. Murray<br /> 
+<u>M Fumasoni</u> and A W. Murray<br /> 
 <i>PLoS genetics</i>, 17 (11), (2021)"
   date: '202111'
   image: '/static/img/pub/Fumasoni_2021.png'
@@ -108,7 +108,7 @@ V Dolce, S Dusi, M Giannattasio, C R Joseph, **M Fumasoni**, D Branzei<br />
       url: https://murraylab.fas.harvard.edu/
 
 - citation: "***Tell me where you’ve been and i’ll tell you how you’ll evolve.***<br />
-**M Fumasoni**<br />
+<u>M Fumasoni</u><br />
 <i>MBio</i> 11 (5), (2020)"
   date: '202010'
   image: '/static/img/pub/Fumasoni_2020.png' 
@@ -121,7 +121,7 @@ V Dolce, S Dusi, M Giannattasio, C R Joseph, **M Fumasoni**, D Branzei<br />
 
 
 - citation: "***Cohesion is established during DNA replication utilising chromosome associated cohesin rings as well as those loaded de novo onto nascent DNAs.***<br />
-S Madhusudhan, **M Fumasoni**, N J Petela, A W Murray, K A Nasmyth <br />
+S Madhusudhan, <u>M Fumasoni</u>, N J Petela, A W Murray, K A Nasmyth <br />
 <i>Elife</i> 9 (2020)"
   date: '202006'
   image: '/static/img/pub/Srinivasan_2020.png'
@@ -136,7 +136,7 @@ S Madhusudhan, **M Fumasoni**, N J Petela, A W Murray, K A Nasmyth <br />
 
 
 - citation: "***Evolutionary repair experiments as a window to the molecular diversity of life.***<br />
-T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray<br />
+T LaBar, Y Y P Hsieh, <u>M Fumasoni</u>, A W Murray<br />
 <i>Current Biology</i> 30 (10), (2020)"
   date: '202005'
   DOI: 10.1016/j.cub.2020.03.046
@@ -149,7 +149,7 @@ T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray<br />
 
 
 - citation: "***The evolutionary plasticity of chromosome metabolism allows adaptation to constitutive DNA replication stress.***<br />
-**M Fumasoni** and A W. Murray <br />
+<u>M Fumasoni</u> and A W. Murray <br />
 <i>Elife</i> 9 (2020)"
   date: '202002'
   DOI: 10.7554/eLife.51963
@@ -163,7 +163,7 @@ T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray<br />
 
 
 - citation: "***Error-free DNA damage tolerance and sister chromatid proximity during DNA replication rely on the Polα/Primase/Ctf4 Complex.***<br />
-**M Fumasoni**, K Zwicky, F Vanoli, M Lopes, D Branzei <br />
+<u>M Fumasoni</u>, K Zwicky, F Vanoli, M Lopes, D Branzei <br />
 <i>Molecular cell</i> 57 (5) (2015)"
   date: '201503'
   DOI: 10.7554/eLife.51963
@@ -176,7 +176,7 @@ T LaBar, Y Y P Hsieh, **M Fumasoni**, A W Murray<br />
 
 
 - citation: "***DNA bending facilitates the error‐free DNA damage tolerance pathway and upholds genome integrity.***<br />
-V Gonzalez‐Huici, B Szakal, M Urulangodi, I Psakhye, F Castellucci, D Menolfi, E Rajakumara, **M Fumasoni**, R Bermejo, S Jentsch, D Branzei <br />
+V Gonzalez‐Huici, B Szakal, M Urulangodi, I Psakhye, F Castellucci, D Menolfi, E Rajakumara, <u>M Fumasoni</u>, R Bermejo, S Jentsch, D Branzei <br />
 <i>The EMBO journal</i> 33 (4) (2014)"
   date: '201402'
   DOI: 10.1002/embj.201387425
@@ -191,7 +191,7 @@ V Gonzalez‐Huici, B Szakal, M Urulangodi, I Psakhye, F Castellucci, D Menolfi,
 
 
 - citation: "***Noncanonical role of the 9-1-1 clamp in the error-free DNA damage tolerance pathway.***<br />
-G I Karras, **M Fumasoni**, G Sienski, F Vanoli, D Branzei, S Jentsch <br />
+G I Karras, <u>M Fumasoni</u>, G Sienski, F Vanoli, D Branzei, S Jentsch <br />
 <i>Molecular cell</i> 49 (3) (2013)"
   date: '201302'
   DOI: 10.1016/j.molcel.2012.11.016
@@ -205,7 +205,7 @@ G I Karras, **M Fumasoni**, G Sienski, F Vanoli, D Branzei, S Jentsch <br />
 
 
 - citation: "***Replication and recombination factors contributing to recombination-dependent bypass of DNA lesions by template switch.***<br />
-F Vanoli, **M Fumasoni**, B Szakal, L Maloisel, D Branzei <br />
+F Vanoli, <u>M Fumasoni</u>, B Szakal, L Maloisel, D Branzei <br />
 <i>PLoS genetics</i> 6 (11) (2010)"
   date: '201011'
   DOI: 10.1371/journal.pgen.1001205
@@ -218,7 +218,7 @@ F Vanoli, **M Fumasoni**, B Szakal, L Maloisel, D Branzei <br />
 
 
 - citation: "***Sgs1 function in the repair of DNA replication intermediates is separable from its role in homologous recombinational repair.***<br />
-K A Bernstein, E Shor, I Sunjevaric, **M Fumasoni**, R C Burgess, M Foiani, D Branzei, R Rothstein <br />
+K A Bernstein, E Shor, I Sunjevaric, <u>M Fumasoni</u>, R C Burgess, M Foiani, D Branzei, R Rothstein <br />
 <i>The EMBO Journal</i> 28 (7) (2009)"
   date: '200904'
   DOI: 10.1038/emboj.2009.28
