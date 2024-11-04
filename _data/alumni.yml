@@ -32,3 +32,31 @@
   flag: /static/img/usa.png
   startdate: 2024
   enddate: 2024
+  
+- name: Joana Boas
+  image: /static/img/joana.png
+  position: Summer student
+  flag: /static/img/portugal.png
+  startdate: 2024
+  enddate: 2024
+  
+- name: Adolfo Alsina
+  image: /static/img/Adolfo.jpg
+  position: Independent PONTE Fellow
+  flag: /static/img/spain.png
+  startdate: 2022
+  enddate: 2024
+  
+- name: Patricia Martins
+  image: /static/img/patriciaM.jpg
+  position: intern
+  flag: /static/img/portugal.png
+  startdate: 2022
+  enddate: 2024
+ 
+- name: Inês Geraldes
+  image: /static/img/Ines.jfif
+  position: intern
+  flag: /static/img/portugal.png
+  startdate: 2022
+  enddate: 2024

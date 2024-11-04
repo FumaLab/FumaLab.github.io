@@ -28,14 +28,6 @@
 
                 B.Sc. @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}<br>'
 
-- name: Inês Geraldes
-  image: /static/img/Ines.jfif
-  flag: /static/img/portugal.png
-  position: NOS-Alive intern 
-  email: igeraldes(at)igc.gulbenkian.pt
-  description: '<u>Previously:</u><br>
-                M.Sc. student @ [University of Minho](https://www.uminho.pt/EN){:target="_blank"}<br>'
-                
 - name: Ana Garoña
   image: /static/img/AnaG.jpg
   flag: /static/img/spain.png
@@ -56,31 +48,7 @@
 
                 B.Sc. @ [Universidad del Valle de Guatemala](https://www.uvg.edu.gt/){:target="_blank"}<br>'
  
-- name: Adolfo Alsina
-  image: /static/img/Adolfo.jpg
-  flag: /static/img/spain.png
-  position: Independent PONTE Fellow
-  email: aalsina(at)igc.gulbenkian.pt
-  scholar: LBO33WsAAAAJ
-  description: '[PONTE Fellows Program](https://gulbenkian.pt/ciencia/training/postdoctoral-training/ponte/){:target="_blank"}<br>
-                <u>Previously:</u><br>
-                PhD @ [MPI of Physics of Complex Systems](https://www.pks.mpg.de/){:target="_blank"}<br>
 
-                M.Sc. @ [École Normale Supérieure](https://www.ens.psl.eu/en){:target="_blank"}<br>' 
-- name: Patricia Martins
-  image: /static/img/patriciaM.jpg
-  flag: /static/img/portugal.png
-  position: intern
-  email: 	pamartins(at)igc.gulbenkian.pt
-  description: '<u>Previously:</u><br>
-                B.Sc. student @ [University NOVA FCT](https://www.fct.unl.pt/en){:target="_blank"}<br>'
-- name: Joana Boas
-  image: /static/img/joana.png
-  flag: /static/img/portugal.png
-  position: intern
-  email: 	jboas(at)igc.gulbenkian.pt
-  description: '<u>Previously:</u><br>
-                M.Sc. student @ [University of Lisbon](https://ciencias.ulisboa.pt/en){:target="_blank"}<br>'
 - name: This could be you
   #pronouns: he/she/they
   image: /static/img/hands_crop.jpeg
