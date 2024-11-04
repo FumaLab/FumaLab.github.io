@@ -51,6 +51,14 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "***Compensatory Evolution to DNA Replication Stress is Robust to Nutrient Availability. ***<br />
+**M Natalino**, **M Fumasoni**<br /> 
+<i>bioRxiv</i>, 2024"
+  date: '202411'
+  image: '/static/img/pub/Natalino_Fumasoni_2024.png'
+  preprint: https://www.biorxiv.org/content/10.1101/2024.10.29.620637v1
+  DOI: https://doi.org/10.1101/2024.10.29.620637
+  
 - citation: "***Experimental approaches to study evolutionary cell biology using yeasts.***<br />
 **M Natalino**, **M Fumasoni**<br /> 
 <i>Yeast</i>, 2023"
