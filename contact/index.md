@@ -20,10 +20,10 @@ group: contact
 
   <h4>JR</h4>
   <br>
-  Instituto Gulbenkian de Ciência (IGC) <br>
+  Gulbenkian Institute for Molecular Medicine (GIMM) <br>
   Rua da Quinta Grande 6 <br>
   2780-156 Oeiras, Portugal <br>
-  email: mfumasoni (at) igc.gulbenkian.pt <br>
+  email: marco.fumasoni (at) gimm.pt <br>
   <br>
 
 </div>
