@@ -6,8 +6,8 @@ title: Contact
 ### Contact Marco
 
 Marco Fumasoni, Ph.D.
-Instituto Gulbenkian de Ciência (IGC)
+Gulbenkian Institute for Molecular Medicine (GIMM)
 Rua da Quinta Grande 6
 2780-156 Oeiras, Portugal
 
-email: mfumasoni (at) igc.gulbenkian.pt
+email: marco.fumasoni (at) gimm.pt
