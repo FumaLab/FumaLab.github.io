@@ -66,7 +66,7 @@
   image: '/static/img/pub/Natalino_Fumasoni_2023.png'
   preprint: https://ecoevorxiv.org/repository/view/4773/
   DOI: https://doi.org/10.1002/yea.3848
-  #pmid: '34752451'
+  pmid: '36896914'
   #pmcid: 'PMC8604288'
 
 - citation: "***Expansion Microscopy on Saccharomyces cerevisiae.***<br />
@@ -76,8 +76,8 @@ A G Korovesi, L Morgado, **M Fumasoni**, R Henriques, H Heil, M Del Rosario.<br 
   image: '/static/img/pub/Korovesi_2022.png'
   preprint: https://www.preprints.org/manuscript/202203.0146/v1
   DOI: 10.17912/micropub.biology.000566
-  #pmid: '34752451'
-  #pmcid: 'PMC8604288'
+  pmid: '35647499'
+  pmcid: 'PMC9132724'
   links:
     - name: Henriques Lab @ IGC
       url: https://henriqueslab.github.io/
