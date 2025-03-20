@@ -4,7 +4,7 @@
   # altimage: /static/img/members/Fraser_pb.jpg
   #pronouns: he/him/his
   position: Principal Investigator
-  email: mfumasoni(at)igc.gulbenkian.pt
+  email: marco.fumasoni(at)gimm.pt
   scholar: o_42xZkAAAAJ
   twitter: marcofumasoni
   #linkedin: jonathan-rodenfels
@@ -21,7 +21,7 @@
   image: /static/img/Mariana.png
   flag: /static/img/portugal.png
   position: PhD student
-  email: mnatalino(at)igc.gulbenkian.pt
+  email: mariana.natalino(at)gimm.pt
   twitter: MarianaNatalin6
   description: '<u>Previously:</u><br>
                 M.Sc. @ [University of Porto](https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=home){:target="_blank"}<br>
@@ -32,7 +32,7 @@
   image: /static/img/AnaG.jpg
   flag: /static/img/spain.png
   position: Postdoc 
-  email: agarona(at)igc.gulbenkian.pt
+  email: ana.delgado(at)gimm.pt
   twitter: GaronaAna
   description: '<u>Previously:</u><br>
                 PhD @ [MPI of Evolutionary Biology](https://www.evolbio.mpg.de/2169/en){:target="_blank"} & [University of Kiel](https://www.uni-kiel.de/en/){:target="_blank"}<br>
@@ -43,10 +43,19 @@
   image: /static/img/Manuel.png
   flag: /static/img/guatemala.png
   position: PhD student
-  email: mvasquez(at)igc.gulbenkian.pt
+  email: manuel.ibarra(at)gimm.pt
   description: 'M.Sc. @ [International Centre For Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}<br>
 
                 B.Sc. @ [Universidad del Valle de Guatemala](https://www.uvg.edu.gt/){:target="_blank"}<br>'
+ 
+- name: Partha Pratim Chakraborty 
+  image: /static/img/Partha.png
+  flag: /static/img/india.png
+  position: Postdoc
+  email: partha.chakraborty(at)gimm.pt
+  description: 'PhD @ [University of Ottawa](https://www.uottawa.ca/en){:target="_blank"}<br>
+
+                M.Sc. @ [University of Calcutta](https://www.caluniv.ac.in/){:target="_blank"}<br>'
  
 
 - name: This could be you
