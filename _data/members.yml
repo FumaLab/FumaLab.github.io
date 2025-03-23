@@ -53,9 +53,8 @@
   flag: /static/img/portugal.png
   position: PhD student
   email: morgane.tome(at)gimm.pt
-  description: 'M.Sc. @ <br>
-
-                B.Sc. @ <br>'
+  description: 'M.Sc. @ [Egas Moniz School of Health & Science](https://www.egasmoniz.com.pt/){:target="_blank"}<br>'
+  
 - name: Partha Pratim Chakraborty 
   image: /static/img/Partha.png
   flag: /static/img/india.png
