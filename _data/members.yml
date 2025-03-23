@@ -48,6 +48,14 @@
 
                 B.Sc. @ [Universidad del Valle de Guatemala](https://www.uvg.edu.gt/){:target="_blank"}<br>'
  
+- name: Morgane Tomé 
+  image: /static/img/morgane.jpeg
+  flag: /static/img/portugal.png
+  position: PhD student
+  email: morgane.tome(at)gimm.pt
+  description: 'M.Sc. @ [International Centre For Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}<br>
+
+                B.Sc. @ [Universidad del Valle de Guatemala](https://www.uvg.edu.gt/){:target="_blank"}<br>'
 - name: Partha Pratim Chakraborty 
   image: /static/img/Partha.png
   flag: /static/img/india.png
@@ -56,7 +64,6 @@
   description: 'PhD @ [University of Ottawa](https://www.uottawa.ca/en){:target="_blank"}<br>
 
                 M.Sc. @ [University of Calcutta](https://www.caluniv.ac.in/){:target="_blank"}<br>'
- 
 
 - name: This could be you
   #pronouns: he/she/they
