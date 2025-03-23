@@ -53,9 +53,9 @@
   flag: /static/img/portugal.png
   position: PhD student
   email: morgane.tome(at)gimm.pt
-  description: 'M.Sc. @ [International Centre For Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}<br>
+  description: 'M.Sc. @ <br>
 
-                B.Sc. @ [Universidad del Valle de Guatemala](https://www.uvg.edu.gt/){:target="_blank"}<br>'
+                B.Sc. @ <br>'
 - name: Partha Pratim Chakraborty 
   image: /static/img/Partha.png
   flag: /static/img/india.png
