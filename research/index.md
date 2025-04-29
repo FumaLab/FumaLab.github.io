@@ -5,13 +5,13 @@ group: research
 ---
 <h4><b>How do fundamental cellular processes evolve?</b></h4><br>
 
-Early research emphasized universal principles shared across life, but recent studies have uncovered surprising, species-specific differences in how essential functions are carried out. Chromosomes are organized, replicated, segregated, and repaired by diverse molecular assemblies — yet the evolutionary origins of this variability remain poorly understood.<br>
+Early research emphasized universal principles shared across life, but recent studies have uncovered surprising, species-specific differences in how essential functions are carried out. Chromosomes are organized, replicated, segregated, and repaired by diverse molecular assemblies — yet <b>the evolutionary origins of this variability remain poorly understood.</b><br>
 
-We recently showed that genome maintenance mechanisms can rapidly rewire under stress, demonstrating that evolutionary cell biology is experimentally tractable.<br>
+We recently showed that genome maintenance mechanisms can rapidly rewire under stress, demonstrating how <b>the evolution of cellular biology is experimentally tractable.</b><br>
 
-Our lab uses <i>Saccharomyces cerevisiae</i> as a model to study how cells adapt to genome maintenance challenges. We integrate molecular, evolutionary, biophysical, and synthetic biology to uncover the mechanisms that drive cellular evolution — from molecules to populations.<br>
+Our lab uses <i><b>Saccharomyces cerevisiae</b></i> as a model to study how cells adapt to genome maintenance challenges. We integrate molecular, evolutionary, biophysical, and synthetic biology to uncover the mechanisms that drive cellular evolution — from molecules to populations.<br>
 
-These insights contribute to a broader understanding of the fundamental principles of evolutionary cell biology and have significant implications for predicting evolutionary outcomes in areas such as cancer progression and antibiotic resistance.<br>
+These insights contribute to a broader understanding of the fundamental principles of evolutionary cell biology and have significant implications for predicting evolutionary outcomes in areas such as <b>cancer progression and antibiotic resistance.</b><br>
 
 #### Open Science
 We do our best to promote Open Science. Below are a number of initiatives and associations we support:
