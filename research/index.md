@@ -3,15 +3,15 @@ title: Research Interests
 layout: research
 group: research
 ---
-<h4><b>How do essential cellular mechanisms evolve?</b></h4><br>
+<h4><b>How do fundamental cellular processes evolve?</b></h4><br>
 
-Early studies emphasized the universal principles shared across life’s domains, but recent research is revealing striking species-specific differences in executing fundamental functions. Genomes are organized into distinct chromosome sets, replicated, segregated, and repaired by unique protein assemblies. The origins of this variability remain a mystery.
+Early research emphasized universal principles shared across life, but recent studies have uncovered surprising, species-specific differences in how essential functions are carried out. Chromosomes are organized, replicated, segregated, and repaired by diverse molecular assemblies — yet the evolutionary origins of this variability remain poorly understood.<br>
 
-We recently showed that genome maintenance mechanisms can rapidly rewire when perturbed, demonstrating how evolutionary cell biology can be studied experimentally.
+We recently showed that genome maintenance mechanisms can rapidly rewire under stress, demonstrating that evolutionary cell biology is experimentally tractable.<br>
 
-Our lab uses <i>S. cerevisiae</i> as a model eukaryote to investigate the molecular mechanisms that enable cells to adapt to genome maintenance challenges.
+Our lab uses <i>Saccharomyces cerevisiae</i> as a model to study how cells adapt to genome maintenance challenges. We integrate molecular, evolutionary, biophysical, and synthetic biology to uncover the mechanisms that drive cellular evolution — from molecules to populations.<br>
 
-We take a multidisciplinary approach, integrating techniques and concepts across biological scales, from molecular and cellular biology to genomics, biophysics, evolutionary, and population genetics.
+These insights contribute to a broader understanding of the fundamental principles of evolutionary cell biology and have significant implications for predicting evolutionary outcomes in areas such as cancer progression and antibiotic resistance.<br>
 
 #### Open Science
 We do our best to promote Open Science. Below are a number of initiatives and associations we support:
