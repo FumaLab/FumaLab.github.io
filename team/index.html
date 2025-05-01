@@ -35,10 +35,15 @@ group: team
           <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/gscholar_logo.svg"></a>
           <a href= "http://scholar.google.com/citations?user={{person.scholar}}" target="_blank"> Scholar Citations </a> <br>
         {% endif %}
-        {% if person.twitter %}
-          <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/twitter2_logo.svg"></a>
-          <a href= "http://twitter.com/{{person.twitter}}" target="_blank"> @{{person.twitter}} </a> <br>
-        {% endif %}
+        {% if person.bluesky %}
+		  <a href="https://bsky.app/profile/{{ person.bluesky }}" target="_blank">
+			<img class="inline-block mem-icon" src="/static/img/bluesky_logo.svg" alt="Bluesky">
+		  </a>
+		  <a href="https://bsky.app/profile/{{ person.bluesky }}" target="_blank">
+			@{{ person.bluesky }}
+		  </a>
+		  <br>
+		{% endif %}
         {% if person.github %}
           <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
           <a href= "http://github.com/{{person.github}}" target="_blank"> {{person.github}} </a> <br>
