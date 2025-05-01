@@ -15,7 +15,7 @@ We are all scientists, at different levels of our paths, with different interest
 ##### Recruitment calls:
 
 ###### <i>Graduate Students</i>
-Graduate students are recruited mostly through the [GIMM PhD Program](https://gimm.pt/education-and-training/phd-program/){:target="_blank"} Or the [FCT national Program](https://www.fct.pt/en/financiamento/programas-de-financiamento/bolsas/){:target="_blank"}. Students from external PhD programs can also be considered. Prospective students interested in joining our lab are encouraged to reach out prior to the call deadlines.
+Graduate students are recruited mostly through the [GIMM PhD Program](https://gimm.pt/education-and-training/phd-program/){:target="_blank"} or the [FCT national Program](https://www.fct.pt/en/financiamento/programas-de-financiamento/bolsas/){:target="_blank"}. Students from external PhD programs can also be considered. Prospective students interested in joining our lab are encouraged to reach out prior to the call deadlines.
 
 ###### <i>Postdoctoral Fellows</i>
 <u>We have funded positions available!</u> Potential candidates are invited to express their initial interest all year round.
