@@ -57,6 +57,9 @@ A Alsina, <u>M Fumasoni</u>, P Sartori<br />
   image: '/static/img/pub/Alsina_Fumasoni_Sartori.png'
   preprint: https://www.biorxiv.org/content/10.1101/2025.03.19.644216v1
   DOI: https://doi.org/10.1101/2025.03.19.644216
+  links:
+    - name: Sartori Lab @ GIMM
+      url: https://www.sartorilab.org/
 
 - citation: "***Compensatory Evolution to DNA Replication Stress is Robust to Nutrient Availability.***<br />
 <u>M Natalino</u>, <u>M Fumasoni</u><br /> 
