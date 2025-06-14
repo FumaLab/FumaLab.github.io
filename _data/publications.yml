@@ -50,6 +50,14 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "***Compensatory Evolution to DNA Replication Stress is Robust to Nutrient Availability.***<br />
+<u>M Natalino</u>, <u>M Fumasoni</u><br /> 
+<i>Molecular Systems Biology (in press)</i>, 2024"
+  date: '202506'
+  image: '/static/img/pub/Natalino_Fumasoni_2024.png'
+  preprint: https://www.biorxiv.org/content/10.1101/2024.10.29.620637v1
+  DOI: https://doi.org/10.1101/2024.10.29.620637
+  
 - citation: "***Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.***<br />
 A Alsina, <u>M Fumasoni</u>, P Sartori<br /> 
 <i>bioRxiv</i>, 2025"
@@ -60,14 +68,6 @@ A Alsina, <u>M Fumasoni</u>, P Sartori<br />
   links:
     - name: Sartori Lab @ GIMM
       url: https://www.sartorilab.org/
-
-- citation: "***Compensatory Evolution to DNA Replication Stress is Robust to Nutrient Availability.***<br />
-<u>M Natalino</u>, <u>M Fumasoni</u><br /> 
-<i>bioRxiv</i>, 2024"
-  date: '202411'
-  image: '/static/img/pub/Natalino_Fumasoni_2024.png'
-  preprint: https://www.biorxiv.org/content/10.1101/2024.10.29.620637v1
-  DOI: https://doi.org/10.1101/2024.10.29.620637
   
 - citation: "***Experimental approaches to study evolutionary cell biology using yeasts.***<br />
 <u>M Natalino</u>, <u>M Fumasoni</u><br /> 
