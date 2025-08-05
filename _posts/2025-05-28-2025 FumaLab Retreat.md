@@ -4,7 +4,7 @@ author: Marco
 layout: post
 group: news
 ---
-The FubaLab retreat in the sunny Alentejo,never disappoints. With special guests 
+The FubaLab retreat in the sunny Alentejo never disappoints! With special guests 
 <a href="https://giometto.cee.cornell.edu/" target="_blank">Andrea Giometto</a> from Cornell University, 
 <a href="https://murraylab.fas.harvard.edu/" target="_blank">Andrew Murray</a> from Harvard University.
 <br>
