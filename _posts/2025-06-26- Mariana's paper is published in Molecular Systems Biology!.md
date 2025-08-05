@@ -8,4 +8,4 @@ Congratulations to Mariana for her paper freshly published in
 <a href="https://www.embopress.org/doi/full/10.1038/s44320-025-00127-z" target="_blank"> Molecular Systems Biology! </a>
 <br>
 <br>
-<img src="/static/img/labpics/Mariana_paper_MSB.png" alt="Natalino and Fumasoni, 2025" width="750">
+<img src="/static/img/labpics/Mariana_paper_MSB.png" alt="Mariana and Marco" width="750">
