@@ -62,6 +62,14 @@
 
                 M.Sc. @ [University of Calcutta](https://www.caluniv.ac.in/){:target="_blank"}<br>'
 
+- name: João Martins
+  image: /static/img/Joao.png
+  flag: /static/img/portugal.png
+  position: NOS Alive Fellow
+  email: joao.martins(at)gimm.pt
+  description: 'M.Sc. @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}/[Champalimaud Centre for the Unknown](https://fchampalimaud.org/champalimaud-foundation/champalimaud-centre){:target="_blank"}<br>
+
+                B.Sc. @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"}<br>'
 - name: This could be you
   #pronouns: he/she/they
   image: /static/img/hands_crop.jpeg
