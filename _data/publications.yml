@@ -50,6 +50,18 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "***Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.***<br />
+A Alsina, <u>M Fumasoni*</u>, P Sartori*<br /> 
+* = co-last authors<br /> 
+<i>PLoS Computational Biology (in press)</i>, 2025"
+  date: '202510'
+  image: '/static/img/pub/Alsina_Fumasoni_Sartori.png'
+  preprint: https://www.biorxiv.org/content/10.1101/2025.03.19.644216v1
+  DOI: https://doi.org/10.1101/2025.03.19.644216
+  links:
+    - name: Sartori Lab @ GIMM
+      url: https://www.sartorilab.org/
+
 - citation: "***Compensatory Evolution to DNA Replication Stress is Robust to Nutrient Availability.***<br />
 <u>M Natalino</u>, <u>M Fumasoni</u><br /> 
 <i>Molecular Systems Biology</i>, 2025"
@@ -57,18 +69,6 @@
   image: '/static/img/pub/Natalino_Fumasoni_2025.png'
   preprint: https://www.biorxiv.org/content/10.1101/2024.10.29.620637v1
   DOI: https://doi.org/10.1038/s44320-025-00127-z
-  
-- citation: "***Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.***<br />
-A Alsina, <u>M Fumasoni*</u>, P Sartori*<br /> 
-* = co-last authors<br /> 
-<i>bioRxiv</i>, 2025"
-  date: '202503'
-  image: '/static/img/pub/Alsina_Fumasoni_Sartori.png'
-  preprint: https://www.biorxiv.org/content/10.1101/2025.03.19.644216v1
-  DOI: https://doi.org/10.1101/2025.03.19.644216
-  links:
-    - name: Sartori Lab @ GIMM
-      url: https://www.sartorilab.org/
   
 - citation: "***Experimental approaches to study evolutionary cell biology using yeasts.***<br />
 <u>M Natalino</u>, <u>M Fumasoni</u><br /> 
