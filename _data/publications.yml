@@ -53,7 +53,7 @@
 - citation: "***Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.***<br />
 A Alsina, <u>M Fumasoni*</u>, P Sartori*<br /> 
 * = co-last authors<br /> 
-<i>PLoS Computational Biology </i>, 2025"
+<i>PLoS Computational Biology</i>, 2025"
   date: '202510'
   image: '/static/img/pub/Alsina_Fumasoni_Sartori.png'
   preprint: https://www.biorxiv.org/content/10.1101/2025.03.19.644216v1
@@ -68,7 +68,7 @@ A Alsina, <u>M Fumasoni*</u>, P Sartori*<br />
   date: '202506'
   image: '/static/img/pub/Natalino_Fumasoni_2025.png'
   preprint: https://www.biorxiv.org/content/10.1101/2024.10.29.620637v1
-  DOI: https://doi.org/10.1038/s44320-025-00127-z
+  DOI: 10.1038/s44320-025-00127-z
   
 - citation: "***Experimental approaches to study evolutionary cell biology using yeasts.***<br />
 <u>M Natalino</u>, <u>M Fumasoni</u><br /> 
@@ -76,7 +76,7 @@ A Alsina, <u>M Fumasoni*</u>, P Sartori*<br />
   date: '202303'
   image: '/static/img/pub/Natalino_Fumasoni_2023.png'
   preprint: https://ecoevorxiv.org/repository/view/4773/
-  DOI: https://doi.org/10.1002/yea.3848
+  DOI: 10.1002/yea.3848
   pmid: '36896914'
   #pmcid: 'PMC8604288'
 
