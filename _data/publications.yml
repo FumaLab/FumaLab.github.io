@@ -53,11 +53,11 @@
 - citation: "***Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.***<br />
 A Alsina, <u>M Fumasoni*</u>, P Sartori*<br /> 
 * = co-last authors<br /> 
-<i>PLoS Computational Biology (in press)</i>, 2025"
+<i>PLoS Computational Biology </i>, 2025"
   date: '202510'
   image: '/static/img/pub/Alsina_Fumasoni_Sartori.png'
   preprint: https://www.biorxiv.org/content/10.1101/2025.03.19.644216v1
-  DOI: https://doi.org/10.1101/2025.03.19.644216
+  DOI: 10.1371/journal.pcbi.1013570
   links:
     - name: Sartori Lab @ GIMM
       url: https://www.sartorilab.org/
