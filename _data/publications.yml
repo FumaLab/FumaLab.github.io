@@ -50,6 +50,14 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "***Experimental evolution of cellular miniaturization reveals a mechanism for cell size evolution.***<br />
+<u>A Garona</u>, <u>MV Lemos</u>, A Giometto, <u>M Fumasoni</u><br /> 
+<i>bioRxiv</i>, 2025"
+  date: '202512'
+  image: '/static/img/pub/Garona_2025.png'
+  preprint: https://www.biorxiv.org/content/10.64898/2025.12.06.692745v1
+  DOI: 10.64898/2025.12.06.692745
+
 - citation: "***Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.***<br />
 A Alsina, <u>M Fumasoni*</u>, P Sartori*<br /> 
 * = co-last authors<br /> 
