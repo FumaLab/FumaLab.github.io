@@ -60,3 +60,11 @@
   flag: /static/img/portugal.png
   startdate: 2022
   enddate: 2024
+  
+ - name: Ana Garoña
+  image: /static/img/AnaG.jpg
+  position: Postdoc
+  flag: /static/img/spain.png
+  startdate: 2023
+  enddate: 2026
+  
