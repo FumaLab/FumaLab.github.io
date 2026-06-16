@@ -52,10 +52,14 @@
 ---
 - citation: "***Experimental evolution of cellular miniaturization reveals a putative mechanism for cell size evolution.***<br />
 <u>A Garona</u>, <u>MV Lemos</u>, A Giometto, <u>M Fumasoni</u><br /> 
-<i>PNAS (in press)</i>, 2026"
-  date: '202605'
+<i>PNAS</i>, 2026"
+  date: '202606'
   image: '/static/img/pub/Garona_2025.png'
-  preprint: https://www.biorxiv.org/content/10.64898/2025.12.06.692745v1
+  preprint: https://www.biorxiv.org/content/10.64898/2025.12.06.692745v2
+  DOI: 10.1073/pnas.2531280123
+    links:
+    - name: Giometto Lab @ Cornell University
+      url: https://giometto.cee.cornell.edu/
 
 - citation: "***Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.***<br />
 A Alsina, <u>M Fumasoni*</u>, P Sartori*<br /> 
