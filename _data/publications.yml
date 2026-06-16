@@ -81,6 +81,8 @@ A Alsina, <u>M Fumasoni*</u>, P Sartori*<br />
   image: '/static/img/pub/Natalino_Fumasoni_2025.png'
   preprint: https://www.biorxiv.org/content/10.1101/2024.10.29.620637v1
   DOI: 10.1038/s44320-025-00127-z
+  pmid: '40571846'
+  pmcid: 'PMC12494895'
   
 - citation: "***Experimental approaches to study evolutionary cell biology using yeasts.***<br />
 <u>M Natalino</u>, <u>M Fumasoni</u><br /> 
@@ -90,7 +92,6 @@ A Alsina, <u>M Fumasoni*</u>, P Sartori*<br />
   preprint: https://ecoevorxiv.org/repository/view/4773/
   DOI: 10.1002/yea.3848
   pmid: '36896914'
-  #pmcid: 'PMC8604288'
 
 - citation: "***Expansion Microscopy on Saccharomyces cerevisiae.***<br />
 A G Korovesi, L Morgado, <u>M Fumasoni</u>, R Henriques, H Heil, M Del Rosario.<br /> 
