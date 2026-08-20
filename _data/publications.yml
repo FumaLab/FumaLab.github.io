@@ -61,6 +61,8 @@
   links:
     - name: Giometto Lab @ Cornell University
       url: https://giometto.cee.cornell.edu/
+    - name: Commentary on PNAS
+      url: https://www.pnas.org/doi/10.1073/pnas.2619024123
 
 - citation: "***Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.***<br />
 A Alsina, <u>M Fumasoni*</u>, P Sartori*<br /> 
