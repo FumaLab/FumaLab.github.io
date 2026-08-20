@@ -89,7 +89,10 @@ A Alsina, <u>M Fumasoni*</u>, P Sartori*<br />
   DOI: 10.1038/s44320-025-00127-z
   pmid: '40571846'
   pmcid: 'PMC12494895'
-  
+  links:
+    - name: Highlighted by GIMM
+      url: https://gimm.pt/news/different-diets-same-genetic-solutions-to-dna-replication-problems/
+      
 - citation: "***Experimental approaches to study evolutionary cell biology using yeasts.***<br />
 <u>M Natalino</u>, <u>M Fumasoni</u><br /> 
 <i>Yeast</i>, 2023"
@@ -136,6 +139,8 @@ V Dolce, S Dusi, M Giannattasio, C R Joseph, <u>M Fumasoni</u>, D Branzei<br />
   links:
     - name: Murray Lab @ Harvard University
       url: https://murraylab.fas.harvard.edu/
+    - name: Highlighted by HFSP
+      url: https://www.hfsp.org/hfsp-news/genomic-features-shaping-evolutionary-adaptation-dna-replication-stress
     - name: Highlighted by Harvard MCB News
       url: https://www.mcb.harvard.edu/department/news/who-gets-to-decide-how-cells-evolve/
       
