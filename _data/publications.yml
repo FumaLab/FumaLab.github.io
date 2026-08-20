@@ -138,7 +138,9 @@ V Dolce, S Dusi, M Giannattasio, C R Joseph, <u>M Fumasoni</u>, D Branzei<br />
   links:
     - name: Murray Lab @ Harvard University
       url: https://murraylab.fas.harvard.edu/
-
+    - name: Highlighted by Harvard MCB News
+      url: https://www.mcb.harvard.edu/department/news/who-gets-to-decide-how-cells-evolve/
+      
 - citation: "***Tell me where you’ve been and i’ll tell you how you’ll evolve.***<br />
 <u>M Fumasoni</u><br />
 <i>MBio</i> 11 (5), (2020)"
@@ -192,7 +194,10 @@ T LaBar, Y Y P Hsieh, <u>M Fumasoni</u>, A W Murray<br />
   links:
     - name: Murray Lab @ Harvard University
       url: https://murraylab.fas.harvard.edu/
-
+    - name: Highlighted by HFSP
+      url: https://www.hfsp.org/hfsp-news/evolution-can-quickly-change-cells-deepest-foundations
+    - name: Highlighted by Harvard MCB News
+      url: https://www.mcb.harvard.edu/department/news/evolution-can-quickly-change-cells-deepest-foundations-murray-lab/
 
 - citation: "***Error-free DNA damage tolerance and sister chromatid proximity during DNA replication rely on the Polα/Primase/Ctf4 Complex.***<br />
 <u>M Fumasoni</u>, K Zwicky, F Vanoli, M Lopes, D Branzei <br />
