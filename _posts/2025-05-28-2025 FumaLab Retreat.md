@@ -9,4 +9,4 @@ The FubaLab retreat in the sunny Alentejo never disappoints! With special guests
 <a href="https://murraylab.fas.harvard.edu/" target="_blank">Andrew Murray</a> from Harvard University.
 <br>
 <br>
-<img src="/static/img/labpics/2025retreat.jpeg" alt="2025 FumaLab retreat" width="750">
+<img src="/static/img/labpics/2025retreat.png" alt="2025 FumaLab retreat" width="750">
