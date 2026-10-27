@@ -77,10 +77,18 @@
   flag: /static/img/PT_USA.png
   position: Master student
   email: raquel.silva(at)gimm.pt
-  description: 'PM.Sc. @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"} <br>
+  description: 'M.Sc. @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"} <br>
 
                 B.Sc. @ [University of California Berkeley](https://www.berkeley.edu/){:target="_blank"}<br>'
-                                
+- name: Prisca Berardi
+  image: /static/img/Prisca_Berardi.jpg
+  flag: /static/img/italy.png
+  position: Postdoc
+  email: prisca.berardi(at)gimm.pt
+  description: 'Ph.D @ [Sorbonne University](https://www.sorbonne-universite.fr/en){:target="_blank"} <br>
+
+                M.Sc. @ [Universita' la Sapienza](https://www.uniroma1.it/it/){:target="_blank"} '
+                                                                
 - name: This could be you
   #pronouns: he/she/they
   image: /static/img/hands_crop.jpeg
