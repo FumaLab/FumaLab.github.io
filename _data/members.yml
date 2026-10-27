@@ -72,6 +72,15 @@
 
                 PhD @ [ITQB NOVA](https://www.itqb.unl.pt/){:target="_blank"}<br>'
                 
+- name: Raquel Silva
+  image: /static/img/Raquel_Silva.jpg
+  flag: /static/img/portugal.png
+  position: Master student
+  email: raquel.silva(at)gimm.pt
+  description: 'PM.Sc. @ [NOVA University of Lisbon](https://www.fct.unl.pt/){:target="_blank"} <br>
+
+                B.Sc. @ [University of California Berkeley](https://www.berkeley.edu/){:target="_blank"}<br>'
+                                
 - name: This could be you
   #pronouns: he/she/they
   image: /static/img/hands_crop.jpeg
